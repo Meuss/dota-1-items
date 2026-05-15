@@ -1,0 +1,2175 @@
+[
+  {
+    "id": "gloves-of-haste",
+    "name": "Gloves of Haste",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn2DDOTZih7v2_cZrQIzW_hUPyy2UdmvIB3rk2EPzv-bI3NkXAO90eaiqPj2sWJRJo1vT221HgK4Y96eE5A6_RaGoODOObIgV0K3f902yVw5sKeLSDXmK0SdgoJK-062o49YGRDIbDXSk/s320/Gloves+of+Haste.jpg",
+    "description": "+15% attack speed",
+    "buyPrice": 500,
+    "sellPrice": 275,
+    "shop": "Cache of Quel-thelan",
+    "usedToMake": [
+      "Power Treads",
+      "Hand of Midas",
+      "Armlet of Mordiggian",
+      "Maelstrom"
+    ],
+    "components": []
+  },
+  {
+    "id": "mask-of-death",
+    "name": "Mask of Death",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinyH3oME2EOeOot_mESfjkTodSi7KbB4jMmhE7iBYpyi0U8odMwZc-9pgzZXlWBl2iRhzTJGIEPGaaFWfHVy-JWY34TdXwrd_w6rOG8j8gFloQhXSHJXGcXuSeZKl5JHPNA-CP3R6R2EN-/s320/Mask+of+Death.jpg",
+    "description": "10% life steal (orb effects)",
+    "buyPrice": 900,
+    "sellPrice": 450,
+    "shop": "Cache of Quel-thelan",
+    "usedToMake": [
+      "Helm of the Dominator",
+      "Mask of Madness",
+      "Vladmir's Offering"
+    ],
+    "components": []
+  },
+  {
+    "id": "ring-of-regeneration",
+    "name": "Ring of Regeneration",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj266S3KnE4EXymTRMVuMaVnK84Wrzx_lr1skFb5v7gSSZ4MreZUhLkWT7VGW1s1iGJ6bdZw_JBTigymKibXJpLhrZgHcu7-AeWtsCrqrrz2vWAya3oNSNRdWu0hR4AyT3EBQnEt4GC0Erl/s320/Ring+of+Regeneration.jpg",
+    "description": "+2 HP regen/seconds",
+    "buyPrice": 350,
+    "sellPrice": 175,
+    "shop": "Cache of Quel-thelan",
+    "usedToMake": [
+      "Headdress of Rejuvenation",
+      "Vladmir's Offering",
+      "Hood of  Defiance",
+      "Soul Ring"
+    ],
+    "components": []
+  },
+  {
+    "id": "kelen-s-dagger",
+    "name": "Kelen's Dagger",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaEq7IwZk13cqmjylK2TiXQvbBB7fGtyYyt6rcque9eayHysmpdzRMSGFhLNqUOMX8N3xy7oQ-KFaatEesITekjmz69BsNPIMt1L-DDm1RFjz17noVWJwU0vGb2pr2rkEMmRZtYHo6dnM/s1600/Kellen+Dagger+of+Escape.gif",
+    "description": "Blink (active) : Blink for up to 1200 distanceCannot be used if you have been damaged by player based damage in the last 3 seconds\nCannot be used by Vengeful Spirit or Pudge\n75 mana, 14 seconds cooldown",
+    "buyPrice": 2150,
+    "sellPrice": 1075,
+    "shop": "Cache of Quel-thelan",
+    "usedToMake": [],
+    "components": []
+  },
+  {
+    "id": "sobi-mask",
+    "name": "Sobi Mask",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyAE4Oftw6i5XJJOUVaPZg-wUoj2Xxc9gEBy0Fzrl-xr33DUUMhvRQdrPVcY0NcTX_Efm4_E0QWjC2g50Ub0-48NvPk_Q8TC3fMGMWLYUSNwkOBbzrcwRgFGF3oL5wwzXEO7kKAAupLvRe/s320/Sobi+Mask.jpg",
+    "description": "+50% mana regeneration",
+    "buyPrice": 325,
+    "sellPrice": 162,
+    "shop": "Cache of Quel-thelan",
+    "usedToMake": [
+      "Ring of Basilius",
+      "Oblivion Staff",
+      "Eul's Scepter of  Divinity",
+      "Soul Ring"
+    ],
+    "components": []
+  },
+  {
+    "id": "boots-of-speed",
+    "name": "Boots of Speed",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj31kf-VqXkvJZIto2YccfJy8cGRknYcivVWDQ-nURnbeN7tuWZnyBjU4lMjZMJ0kIOLBS4ng963PB6z29ykgcgLwEben-Fr5WjwlyX0x7jbenHp2kxOkvAUUD4N1ZGPKv_0yKlaZKzcWtd/s1600/Boots+of+Speed.gif",
+    "description": "Increase movespeed by 55",
+    "buyPrice": 500,
+    "sellPrice": 250,
+    "shop": "Cache of Quel-thelan",
+    "usedToMake": [
+      "Boots of Travel",
+      "Power Treads",
+      "Phase Boots"
+    ],
+    "components": []
+  },
+  {
+    "id": "gem-of-true-sight",
+    "name": "Gem of True Sight",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrY2z4URz8J7qZtzDlHX2_jQ5DeqiPr5hzlhYXHknS_TZxddznAMZEIKogx7P6Kkq8YJHhDJim_R5TF6prc9EpiRIPeT9vj2tMA3WJPOjMCNOuRGNlfJohauT_rZahwm921MbuoHXZyCBR/s320/Gem+of+True+Sight.jpg",
+    "description": "Allow the bearer to see invisible unit within a small radius.\nDrop upon death",
+    "buyPrice": 700,
+    "sellPrice": null,
+    "shop": "Cache of Quel-thelan",
+    "usedToMake": [],
+    "components": []
+  },
+  {
+    "id": "planeswalker-s-cloak",
+    "name": "Planeswalker's Cloak",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1ASC-61nAAMpcPOhwLa33s4SNqcXwOGjKjhhHapyO1-Lb53gDu4yyO4b7kqwY2C02BIyETk9jpCpW06rc0FnRpLIdYzv_pA3NINdnqTjVNZRO39DBCSaryq7I822LnmKdanaB6-Id7WIx/s320/Planeswalker's+Cloak.jpg",
+    "description": "15% spell resistance",
+    "buyPrice": 500,
+    "sellPrice": 250,
+    "shop": "Cache of Quel-thelan",
+    "usedToMake": [
+      "Hood of Defiance"
+    ],
+    "components": []
+  },
+  {
+    "id": "magic-stick",
+    "name": "Magic Stick",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmRNMS2TuD2ERnvC3npnIhJqQLyBT8GUxAdBsUj37xCIQxiwg5HSpUReyjH06MZo2I99IY0c2bZ-sPx_RHlNK6_OHLsoFxBSmFD3E3WHAoLBE91VJuT6U74q_bJjdmHyAseYxSqYblBegB/s400/Magic+Stick.jpg",
+    "description": "Energy Charge (Does not stack)\nWhen enemy casts a spell around you (1400), you gain 1 charge. Maximum 10 charges. When you cast the item, you instantly regenerate 15 hp and 15 mana for each charge. This does not trigger off of non-spells or attack orbs",
+    "buyPrice": 200,
+    "sellPrice": 100,
+    "shop": "Cache of Quel-thelan",
+    "usedToMake": [
+      "Magic Wand"
+    ],
+    "components": []
+  },
+  {
+    "id": "talisman-of-evasion",
+    "name": "Talisman of Evasion",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0kjcvHk39AU9rv9zfjx19WEmizmwew57hzG-EMwtTZrN9ZxsBB2f1lOI_N43vQSBdq9pri7-zmFOWqqtOtJtyqkytbsG9H6TpGHWYj1jmUHZaWv8y4HhMpcs46npx6pQ4GYVJMcNskUrV/s400/Talisman+of+Evasion.JPG",
+    "description": "Add 25% Evasion",
+    "buyPrice": 1800,
+    "sellPrice": 900,
+    "shop": "Cache of Quel-thelan",
+    "usedToMake": [
+      "the Butterfly"
+    ],
+    "components": []
+  },
+  {
+    "id": "ghost-scepter",
+    "name": "Ghost Scepter",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs8WHgyBs7mg4Uu_hDLnVO_9j3-nO2I0-PXzX7thqIH9fU3HiGY1lqgeS7p-AS6O1U-KOmaWpTv1SwfkpK7ObWwu-2LwnE8JWva5moRKdaPaVE7UCz5IH19Wp9aRFKDEX1RYv6BSNcYMrQ/s400/Ghost+Scepter.jpg",
+    "description": "+7 Attributes\nGhost Form (Active)\nGhost Form makes you unable to attack or be attacked, but you take 44% extra damage from spells. Ghost Form lasts 4 seconds and has a 30 second cooldown. Ghost Form ends if you become magic immune, and will have no effect if you are already magic immune.\n<h2 style=\"background-color: #333333; color: #ff9966; font-size: 16px; font-variant: small-caps; margin-top: 0px; padding: 4px; text-align: center;\"",
+    "buyPrice": 1600,
+    "sellPrice": 800,
+    "shop": "Cache of Quel-thelan",
+    "usedToMake": [
+      "Ethereal Blade"
+    ],
+    "components": []
+  },
+  {
+    "id": "clarity-potion",
+    "name": "Clarity Potion",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT23-RTZFfBaGjFCQxl6zIxD8PPnU1dwB4plkVx4h96RDfcOan4pVA3P_AtcVV_4nCr0APSFmny64Aemw0dmS8zxXInJT3BLED07KSM_qL9P6cB7i0PSgi806gqxs92zE_EnyVTCTx3nIW/s320/Clarity+Potion.jpg",
+    "description": "Regenerates 100 mana over 30 seconds.\nClarity Potion will be dispelled when unit attacks/attacked.\nContains 1 charge",
+    "buyPrice": 50,
+    "sellPrice": 25,
+    "shop": "Ancient of Wonders",
+    "usedToMake": [],
+    "components": []
+  },
+  {
+    "id": "flask-of-sapphire-water",
+    "name": "Flask of Sapphire Water",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXLUdQQcb3u2iG6IKX75NXStl7inhd0hi2bHrUaG2u-gIZsNRmd0eByK5b5RlZ3Q-s_MSZI5ovajS4RmV02M0HQc9-XLzFQAr_uA_wY7R0ynOUpaLGUrplTZuZftWpzODaw1Gd_IWxBYgz/s400/BTNHealingSalve.gif",
+    "description": "Regenerates targeted friendly unit HP by 400 HP over 10 seconds.\nSapphire Water will be dispelled when unit attacks/attacked.\nContains 1 charge",
+    "buyPrice": 100,
+    "sellPrice": 50,
+    "shop": "Ancient of Wonders",
+    "usedToMake": [],
+    "components": []
+  },
+  {
+    "id": "empty-bottle",
+    "name": "Empty Bottle",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUnoDZ9OszIo7kYC1emp42gNXaPHyUANXtK34JpZJU_WdUtjntWA9qfMmdp9dnpDesh1HeA5l1XxMVpFIrkpJWdDSnWBr1E5_ekoi6LXtkfvK3C8bMCFBPMawtyvpLhduaUvRPLkAJec_f/s400/Empty+Bottle.jpg",
+    "description": "It can store healing water for up to 3 uses (cast on Fountain), each healing 135 HP and 70 mana over 3 seconds.\nIt can be used to capture magical runes for 2 minutes. No mana cost.",
+    "buyPrice": 600,
+    "sellPrice": 300,
+    "shop": "Ancient of Wonders",
+    "usedToMake": [],
+    "components": []
+  },
+  {
+    "id": "observer-wards",
+    "name": "Observer Wards",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVOBr9Z4IZmJO0Jh5jxNi7r4NLrnYGspkpRrhuic-3j5y_U5EMpDUCrVB05iazHYytcufOmIyTshsWmPpxoHhvOlOlbGI9h_Dh5mKdE_LppFyw16BT9LTVE3OgC6TSE4XsFZIY9FXIH9n9/s320/Observer+Ward.jpg",
+    "description": "Summon an invisible ward to spy upon an area. Does not have true sight.\n6 minutes duration. Contains 2 charges.",
+    "buyPrice": 200,
+    "sellPrice": 100,
+    "shop": "Ancient of Wonders",
+    "usedToMake": [],
+    "components": []
+  },
+  {
+    "id": "sentry-wards",
+    "name": "Sentry Wards",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLQevgPd6Y821Z_I_6ZZ9aE1Q1N7_cPFP9bJnDA5SpIVvYlsyYsSAa9FDldt2cburz5tV1MsRTtEgByYWDsRHWoJM8f7w-V0dH38xcQ8tNxd6Tx4YQyovE2r2qQcfcegyq4eJS6CK_gBIo/s320/Sentry+Ward.JPG",
+    "description": "Summon an invisible ward to spy upon an area. Will reveals enemy's invisible unit within 950 AoE. Have small AoE natural vision.\n3 minutes duration. Contains 2 charges",
+    "buyPrice": 200,
+    "sellPrice": 100,
+    "shop": "Ancient of Wonders",
+    "usedToMake": [],
+    "components": []
+  },
+  {
+    "id": "ancient-tango-of-essifation",
+    "name": "Ancient Tango of Essifation",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLMjM3tdp96BO32teD5x57Uh1pj9BY7c4N872s86lgb_jeLFASDoE2Rj2TIemvhiTmvoVMc-H6mhsv9tNe7MuGMPTyY3bqPKLF338dPmT5C0cH5HUDJL-DvVK8uX3e9aQ_izBD4LtQZRGv/s320/Ancient+Tango+of+Essifation.jpg",
+    "description": "Restores 115 HP over 16 seconds when bearer eat trees.\nContains 3 charges",
+    "buyPrice": 90,
+    "sellPrice": 45,
+    "shop": "Ancient of Wonders",
+    "usedToMake": [],
+    "components": []
+  },
+  {
+    "id": "animal-courier",
+    "name": "Animal Courier",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuyMQx5iLqkNU8Op6_ufEMyizbHhX4luYHLT3jBjzqVa-udoT0RkhPaxYVJgcp-C4Bc4Bv8QuK4Q2c90TgOqGcfD7PxUFhLtD6IBhT92CrZyA4adUGh6W8aRzlte5WfT7i0nDdY-NHfbkO/s320/Animal+Courier.jpg",
+    "description": "Summon a fast unit with 6 items slot and 45 HP.\nIf die, all the items will be fall to the ground.",
+    "buyPrice": 170,
+    "sellPrice": 85,
+    "shop": "Ancient of Wonders",
+    "usedToMake": [
+      "Flying Courier"
+    ],
+    "components": []
+  },
+  {
+    "id": "scroll-of-town-portal",
+    "name": "Scroll of Town Portal",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1buWaN0WoNTtYrCs1hH1Z6zQCPEkFqtyZQN5m8fhpg8jHBgi4MOtKMOvm972Tq2r6NsEVG7Byuhxwwm5J17BPBlmVKE1AKa3Ls1_45Rfi4mJCSmjwGYLqOjD0F0MknCc96azTzaJV8dh2/s320/Scroll+of+Town+Portal.jpg",
+    "description": "Teleport hero to a friendly structure. 75 mana cost. 3 seconds cast time. 65 seconds cooldown\n<h2 style=\"background-color: #333333; color: #ff9966; font-size: 16px; font-variant: small-caps; margin-top: 0px; padding: 4px; text-align: center;\"",
+    "buyPrice": 135,
+    "sellPrice": 67,
+    "shop": "Ancient of Wonders",
+    "usedToMake": [],
+    "components": []
+  },
+  {
+    "id": "gauntlets-of-ogre-strength",
+    "name": "Gauntlets of Ogre Strength",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1L5cHutYKRHmPKgjTrEj-SI5HroIqVp9n_bCOUZSOsN86-b_P6QUPL60RkGG86Fg0DFPzocMq0T5DiYtY6eveTHIF47WBS0f6Fywcmbxe01zq22Bv2m2QzQkrDSN8CsgecSSRZdkLXUxs/s320/Gauntlets+of+Ogre+Strength.jpg",
+    "description": "+3 Strength",
+    "buyPrice": 150,
+    "sellPrice": 75,
+    "shop": "Sena The Accessorizer",
+    "usedToMake": [
+      "Bracer"
+    ],
+    "components": []
+  },
+  {
+    "id": "slippers-of-agility",
+    "name": "Slippers of Agility",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ_bLGT1Q8cWp60Tnti8v97DvCJxhuwkJotKbXq_g6CVI6mLlXFxvuU0tOTlHd3JaGT_khyphenhyphenDyf1njMqse4Iy_wRYaNd6wKqxGp5YA7d3FCmwCpN4zwLm21oRQeEBb6CnpeALHJuo7Ym8N-/s320/Slippers+of+Agility.jpg",
+    "description": "+3 Agility",
+    "buyPrice": 150,
+    "sellPrice": 75,
+    "shop": "Sena The Accessorizer",
+    "usedToMake": [
+      "Wraith Band",
+      "Poor Man's Shield"
+    ],
+    "components": []
+  },
+  {
+    "id": "mantle-of-intelligence",
+    "name": "Mantle of Intelligence",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBbqGw_WrEyWBGZvwkkll0_RwIBYHOYJeo5Vjbio2GdPp3pGpslpxM3JpvlQpumEAW9QH-SnqnPcIhoKrGDJZ73Q48eSatfhXnUWb2_mER2uxvh5LNYyjcD5tNePavBJzxZnPB-aYzI-ck/s320/Mantle+of+Intelligence.jpg",
+    "description": "+3 Intelligence",
+    "buyPrice": 150,
+    "sellPrice": 75,
+    "shop": "Sena The Accessorizer",
+    "usedToMake": [
+      "Null Talisman"
+    ],
+    "components": []
+  },
+  {
+    "id": "ironwood-branch",
+    "name": "Ironwood Branch",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm19DzwhvTu6QAzQ5_UE_FM15bkMFqPufzc9N8-kqKexGHmXFpcG4VQ0rgT7mki9i9W8ZzhbTifISOytEJHnGiMZRHoTi43-_hlUaDJ4yNsk5ETyqfVJd6wi2kTnE2vs4np6UcGHOeH4ON/s320/Ironwood+Branch.jpg",
+    "description": "+1 to all stats",
+    "buyPrice": 57,
+    "sellPrice": 28,
+    "shop": "Sena The Accessorizer",
+    "usedToMake": [
+      "Headdress of Rejuvenation",
+      "Netherezim Buckler",
+      "Magic Wand"
+    ],
+    "components": []
+  },
+  {
+    "id": "belt-of-giant-strength",
+    "name": "Belt of Giant Strength",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5NBYvn9hgoNvPnuMIbgZTkE2SE3iZkwE4LUgLIRGwSxMycaIgPduHpHSUAO8rORl2rweqD5OBoZd5bsh80iN96YO5O55IByEYpXEgOcPiBQPVI15TMO0nmMSd0ReVwCHR50z6Wvq_Ao86/s320/Belt+of+Giant+Strength.jpg",
+    "description": "+6 Strength",
+    "buyPrice": 450,
+    "sellPrice": 225,
+    "shop": "Sena The Accessorizer",
+    "usedToMake": [
+      "Sange",
+      "Necronomicon",
+      "Power Treads",
+      "Cranium Basher"
+    ],
+    "components": []
+  },
+  {
+    "id": "boots-of-elvenskin",
+    "name": "Boots of Elvenskin",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4kfY5iphaDSNDlhURa5MgW-7U1Jqj3KVqAAsqtWAs62IsRnVcRi7GrBHOzDB21OkYFWq-ACJrgOaSUskBnb4nZW5P4fBHH_x8mxAHevVMIlIIzWe_AQUsuKBlvFpyGybHY48dOg9o1KXN/s320/Boots+of+Elvenskin.jpg",
+    "description": "+6 Agility",
+    "buyPrice": 450,
+    "sellPrice": 225,
+    "shop": "Sena The Accessorizer",
+    "usedToMake": [
+      "Yasha",
+      "Power Treads"
+    ],
+    "components": []
+  },
+  {
+    "id": "robe-of-the-magi",
+    "name": "Robe of the Magi",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbTg9fn9XDkNO5ncY0a6TS4lD0fulO2RA-RzdyqKxPdEUvXXKklH1IYrrq78_3_9eLF7aDxkb7REmwvSO0q2EwC42h6_PHum6NHqaYb2TZ0bmhzh9OFp5mhAVxioYmSeq2HpmJf-Yu9t0e/s320/Robe+of+The+Magi.jpg",
+    "description": "+6 Intelligence",
+    "buyPrice": 450,
+    "sellPrice": 225,
+    "shop": "Sena The Accessorizer",
+    "usedToMake": [
+      "Blade Mail",
+      "Oblivion Staff",
+      "Diffusal Blade",
+      "Power Treads"
+    ],
+    "components": []
+  },
+  {
+    "id": "circlet-of-nobility",
+    "name": "Circlet of Nobility",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnKTiZiIazalz0pOM1B37odPvz6qzuX7L-D3pS89p0Lk74HM629dboK7kK0CY8fjxV9wEQPdW7qQnvpVpvXYyA0dd7yFlAReVbXNRLeMcCc-Kaly_CxZynLBWel4peqYIa_fHGL1YGAzDd/s320/Circlet+of+Nobility.jpg",
+    "description": "+2 to all stats",
+    "buyPrice": 185,
+    "sellPrice": 92,
+    "shop": "Sena The Accessorizer",
+    "usedToMake": [
+      "Bracer",
+      "Wraith Band",
+      "Null Talisman"
+    ],
+    "components": []
+  },
+  {
+    "id": "ogre-axe",
+    "name": "Ogre Axe",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFKRKHlEZhIgHdV5Abzih6vNDC31yF5ft-o7l_dFpohmeTMe8IWpHbfMlKsmzD5QpUT9eME7YCxe_4ieNVYNzDPUmFBbiy9ACQqN4IPlRuUos31U7s8o5Q071tYc4oauvLPMhDQFPresAc/s320/Ogre+Axe.jpg",
+    "description": "+10 Strength",
+    "buyPrice": 1000,
+    "sellPrice": 500,
+    "shop": "Sena The Accessorizer",
+    "usedToMake": [
+      "Sange",
+      "Black King Bar",
+      "Aghanim's Scepter"
+    ],
+    "components": []
+  },
+  {
+    "id": "blade-of-alacrity",
+    "name": "Blade of Alacrity",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0jzVWsV4tltKb7DMraPfXaKTTMZA9YmLD_DQRHwMfnhlbILsIorAgP2znHVOEy544vnFi9KvL7qytnJxgHvhepN8DwYwaa04CHaoonIkncdJ-yMqOYgeUfWJoO65nGQnku13KRjFua8np/s320/Blade+of+Alacrity.jpg",
+    "description": "+10 Agility",
+    "buyPrice": 1000,
+    "sellPrice": 500,
+    "shop": "Sena The Accessorizer",
+    "usedToMake": [
+      "Yasha",
+      "Diffusal Blade",
+      "Aghanim's Scepter"
+    ],
+    "components": []
+  },
+  {
+    "id": "staff-of-wizardry",
+    "name": "Staff of Wizardry",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqK2l2zrNKxjHtqSQgPNrHNgH9BTetz32r-hUhTm8oi4sMsHCawSFfAb9dtRKtHCN3ufgx8abzA7lPnF4By40U04Olg4hpEvHM7vjKJ_v5mfQivfs3W-mO04kAfILiGgXWRMrWnc8EoeOj/s320/Staff+of+Wizardry.jpg",
+    "description": "+10 Intelligence",
+    "buyPrice": 1000,
+    "sellPrice": 500,
+    "shop": "Sena The Accessorizer",
+    "usedToMake": [
+      "Eul's Scepter of Divinity",
+      "Dagon",
+      "Necronomicon",
+      "Aghanim's  Scepter",
+      "Force Staff"
+    ],
+    "components": []
+  },
+  {
+    "id": "ultimate-orb",
+    "name": "Ultimate Orb",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgjLGVTiNDpt4kPAPCGyOg3iS1UIqTyEt15-wLy0GmufjzP703WDMNaunrhZ9xKVHFNhoKXKAvWX_LSuzdHvJ9xzr1EH7Ai2-mE8ay9PG5VYd_YHFO7iPYCJ-I9b1bVF2FhIw46LnTzEcc/s320/Ultimate+Orb.jpg",
+    "description": "+10 to all stats\n<h2 style=\"background-color: #333333; color: #ff9966; font-size: 16px; font-variant: small-caps; margin-top: 0px; padding: 4px; text-align: center;\"",
+    "buyPrice": 2100,
+    "sellPrice": 1050,
+    "shop": "Sena The Accessorizer",
+    "usedToMake": [
+      "Linken's Sphere",
+      "Eye of Skadi",
+      "Guinsoo",
+      "Manta Style"
+    ],
+    "components": []
+  },
+  {
+    "id": "blades-of-attack",
+    "name": "Blades of Attack",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW7PBWCyAdycfhLnc13XbYhePJhnYF2i1c-i9w0nXrzzX4whyphenhyphenNCrPjo6rb4zZCeVyWdzfOra9svdBoqycC83f6jsc-RuHPalT0KAbAYgq5mKogBoKhI2a2JOioddHcJOTU2c0Dyq-zullc/s320/Blades+of+Attack.jpg",
+    "description": "+9 damage",
+    "buyPrice": 450,
+    "sellPrice": 225,
+    "shop": "Weapons Dealer",
+    "usedToMake": [
+      "Crystalys",
+      "Phase Boots"
+    ],
+    "components": []
+  },
+  {
+    "id": "broadsword",
+    "name": "Broadsword",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJSo2tkCLoRlNtk89mQyLd0MZuGi4zFA2Gu8igDaDJtdBNBa0C1f372WzS-FTGwDQz-Tbtw2QwlzU4OYhBOGocR7TWwDgDldbec3CX60tukRHcDpmiXDEa2-WKwFVHHqTe9ChTHiD24eM9/s320/Broadsword.jpg",
+    "description": "+18 damage",
+    "buyPrice": 1200,
+    "sellPrice": 600,
+    "shop": "Weapons Dealer",
+    "usedToMake": [
+      "Blade Mail",
+      "Crystalys",
+      "Battlefury"
+    ],
+    "components": []
+  },
+  {
+    "id": "quarterstaff",
+    "name": "Quarterstaff",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWqZfRQxdb1J_8QIercltuPOJ3Fh5gfzdwoZ2sWi_yvw1DhEVHXaaQV4MUrF4JUx-1McTYPMb-LVXE7TLMw7ttAu40v9qCIGGWpuw7Kbp0HCsyq-BhkostAQpT6u3qU-E4ZZvTmf3-DIZA/s320/Quarterstaff.jpg",
+    "description": "+10% attack speed\n+10 damage",
+    "buyPrice": 900,
+    "sellPrice": 575,
+    "shop": "Weapons Dealer",
+    "usedToMake": [
+      "Oblivion Staff",
+      "The Butterfly",
+      "Lothar's Edge",
+      "Force Staff"
+    ],
+    "components": []
+  },
+  {
+    "id": "claymore",
+    "name": "Claymore",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmntwqQ5XlvCX0AykJRBmxgxX6yeFNINcWx3hqtgiEVGfilE8dP42iNcBpbGguFIGvWzSHI_VlcP1_7HaqIogidbnqBrVg0DeWI-obx-aXP-3mM7SEvAdvfrZ66KmF8ZWFTQZD4fD_o3jJ/s320/Claymore.jpg",
+    "description": "+21 damage",
+    "buyPrice": 1400,
+    "sellPrice": 700,
+    "shop": "Weapons Dealer",
+    "usedToMake": [
+      "Battle Fury",
+      "Lothar Edge"
+    ],
+    "components": []
+  },
+  {
+    "id": "ring-of-protection",
+    "name": "Ring of Protection",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRYYXUnSmLnjr7f3s9V0H21Yr87wZQdYl0rG2jOxtb9D2yf-RYqGhoTPRxfFRpjy8FwS6boH7-8qXnSNNEtoKfXJJYdZKg_3CdmLxO-nxS__oypNG9tkvW2d7udc7uxCB1sWlEQ492k6Ls/s400/Ring+of+Protection.jpg",
+    "description": "+2 armor",
+    "buyPrice": 175,
+    "sellPrice": 87,
+    "shop": "Weapons Dealer",
+    "usedToMake": [
+      "Ring of Basillius"
+    ],
+    "components": []
+  },
+  {
+    "id": "stout-shield",
+    "name": "Stout Shield",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqmhB92nBiuiJuk8SoLE2mxP2gLZ-jI0Uj4mQxKopF8zM8aA81TLGrNwxugq5wO8IgsWRlAOIzbHpDQzuWwXeAlvuKPMSsi7TPRLO_P28kwqm3vdfF0slJvxKJVW-h9kmvxsYZJUgimBxq/s400/Stout+Shield.jpg",
+    "description": "60 % chance block 20 damage",
+    "buyPrice": 250,
+    "sellPrice": 125,
+    "shop": "Weapons Dealer",
+    "usedToMake": [
+      "Vanguard",
+      "Poor Man's Shield"
+    ],
+    "components": []
+  },
+  {
+    "id": "javelin",
+    "name": "Javelin",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLw3oBkCJhMXxlW84zZgNkvocWmd36lN0pGvwH62cDV-1i4afSiVzXyXfI3BRUsyt1fals1g_IBgzDPWGeDIWsH9G7lnOtrPJ4kqb3MaqSRbe1bGuJESq8E4jvbSJnu1TJ9FiPzS48G6iI/s320/Javelin.jpg",
+    "description": "+21 damage\n20 % chance add 40 damage for each attack",
+    "buyPrice": 1500,
+    "sellPrice": 750,
+    "shop": "Weapons Dealer",
+    "usedToMake": [
+      "Monkey King Bar",
+      "Cranium Basher"
+    ],
+    "components": []
+  },
+  {
+    "id": "mithril-hammer",
+    "name": "Mithril Hammer",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH7GvJaLu_6MaZJCvCEPkt5PcuqzFRe8VL4jfp6h5DY2MCi1jDQIBY38UMGBHs_w95eJf3eIu-e8RR8J1TG0AQX6lw-3cfHwik4MeK-onUKuk-DEqYpmNwJOl78JwxppPvlYYYZZsYd8Gy/s320/Mithril+Hammer.jpg",
+    "description": "+24 damage",
+    "buyPrice": 1600,
+    "sellPrice": 800,
+    "shop": "Weapons Dealer",
+    "usedToMake": [
+      "Maelstrom",
+      "Black King Bar",
+      "Stygian Desolator"
+    ],
+    "components": []
+  },
+  {
+    "id": "chainmail",
+    "name": "Chainmail",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFswVmVvHdM80HGghUKZY8Dd3W-FEENJMlZOGBk19HNoheGBksLDF0nYZeypzS_C4bo116z4lHhnkbyHY5O7JJCHWTyk-TyWp3vpHzQC5LnMmAFZEFnGbibbiZzjhfD9drg48upb0KCXpN/s320/Chainmail.jpg",
+    "description": "+5 armor",
+    "buyPrice": 550,
+    "sellPrice": 275,
+    "shop": "Weapons Dealer",
+    "usedToMake": [
+      "Natherezim Buckler",
+      "Blade Mail",
+      "Assault Cuirass",
+      "Phase  Boots"
+    ],
+    "components": []
+  },
+  {
+    "id": "helm-of-iron-will",
+    "name": "Helm of Iron Will",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQXw1amJ9VrC5_2Tm-xpAqxoW8xYXkSlcilhhU4zYG7ei9mOYpgtwOkBUXMNUpuOuEwh4ojABoLYwhMQFDEZLvHy7ypMC2hBUmXlXOMBlYBoF0mD-jcmUaEVCtyg9iebHXVCWnIuU3oF-w/s320/Helm+of+Iron+Will.jpg",
+    "description": "+5 armor, +3 HP regen/seconds",
+    "buyPrice": 950,
+    "sellPrice": 475,
+    "shop": "Weapons Dealer",
+    "usedToMake": [
+      "Helm of the Dominator",
+      "Hood of Defiance",
+      "Armlet of  Mordiggian"
+    ],
+    "components": []
+  },
+  {
+    "id": "plate-mail",
+    "name": "Plate Mail",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDndc-7ItGgkk2IUhU6YNDv9Tn0XtB_itlz13ZZ6k-2QTahlzSUn68Kqm7Xkpe-0wEZrkdro3WfYDTRSrm2Aa9lcw3hPx_lfC_94vQLrdKxAKJdTTdmA-APamYiPoffn8niXJGQEB1I5x9/s320/Plate+Mail.jpg",
+    "description": "+10 armor",
+    "buyPrice": 1400,
+    "sellPrice": 700,
+    "shop": "Weapons Dealer",
+    "usedToMake": [
+      "Assault Cuirass",
+      "Shiva's Guard"
+    ],
+    "components": []
+  },
+  {
+    "id": "quelling-blade",
+    "name": "Quelling Blade",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghKdWw-s0DPG8Nc3qE2bhQLDQFsf9Qhc_4oCcqyhv90ZvKcUhyZ9Nmad2aCuHtdfW5YW9r0GCY2CZwtgSsczDcxvAnT2_hwZD-fYG82FSSftRlOaxw4dqLq9_G3sI3bY62N5KwmuvWkPxO/s400/Quelling+Blade.jpg",
+    "description": "+32% bonus attack damage on non-hero units. +12% (ranged)\nTree Chop (Active)\nTree Chop destroys a target tree.\nCooldown : 10 seconds\nQuelling Blade cannot be held by Admiral\n<h2 style=\"background-color: #333333; color: #ff9966; font-size: 16px; font-variant: small-caps; margin-top: 0px; padding: 4px; text-align: center;\"",
+    "buyPrice": 225,
+    "sellPrice": 0,
+    "shop": "Weapons Dealer",
+    "usedToMake": [],
+    "components": []
+  },
+  {
+    "id": "demon-edge",
+    "name": "Demon Edge",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj00WC15yNkgYtjHOo73YTlx5xIMufTsM4VeGoSi9px-gLyup990-TCCSc89UfyKuUzS8M_reuXXDtJZccQgmQfmehHpC2FSFetgXCeINdd8Xuik-TaRMles2f1UQ2LnjZ91HKxhe14__lp/s320/Demon+Edge.jpg",
+    "description": "+46 damage",
+    "buyPrice": 2400,
+    "sellPrice": 1300,
+    "shop": "Leragas the Vile",
+    "usedToMake": [
+      "Divine Rapier",
+      "Buriza-do Kyanon",
+      "Monkey King Bar"
+    ],
+    "components": []
+  },
+  {
+    "id": "eaglehorn",
+    "name": "Eaglehorn",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib0sbAf_SBSQ59AeqIKQ2j-8pHGYSTTmvt8Dydn5FcTLpxfgiF49IJn8WK8Kr2IIBh-YQjOgAFkpURg_qr6g9m_nZj0zq8Cj6sC-QR6v6pYnni6D9c0cJB5u6PiUY_H7MkZhj1GL6MCMP7/s320/Eaglehorn.jpg",
+    "description": "+25 Agility",
+    "buyPrice": 3300,
+    "sellPrice": 1650,
+    "shop": "Leragas the Vile",
+    "usedToMake": [
+      "The Butterfly",
+      "Mjollnir",
+      "Ethereal Blade"
+    ],
+    "components": []
+  },
+  {
+    "id": "messerschmidt-s-reaver",
+    "name": "Messerschmidt's Reaver",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFvwEg_TBh7-RglC-RS9ZpqALNTw9HZmuA9FuO5tOhNN3mXs_-Bvh-26mlCM0k6kIWXiDNK7hauNaP9vt2MjkY_wLX1EbswBUKFSJsZ9uHN1swW9ocmxCqNK3Tc94axWcZJCuNKqtrzx6K/s320/Messerschmidt's+Reaver.jpg",
+    "description": "+25 Strength",
+    "buyPrice": 3200,
+    "sellPrice": 1600,
+    "shop": "Leragas the Vile",
+    "usedToMake": [
+      "Heart of Tarrasque",
+      "Satanic"
+    ],
+    "components": []
+  },
+  {
+    "id": "sacred-relic",
+    "name": "Sacred Relic",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgSoT2ZhHy2q8FnR1XLiC_yI78oKWqTloTHQzWKFRKL_qgoAVxaN3SuF2b9tT-0xbsglG48PMOfAX9sAoPN6uiAZ2KMGhRhIcvgJ4m_TqwiUkadKf2uFqOw5z0Tx37SpBvLASVj2bs72cv/s320/Sacred+Relic.jpg",
+    "description": "+60 damage",
+    "buyPrice": 3800,
+    "sellPrice": 1900,
+    "shop": "Leragas the Vile",
+    "usedToMake": [
+      "Divine Rapier",
+      "Radiance"
+    ],
+    "components": []
+  },
+  {
+    "id": "hyperstone",
+    "name": "Hyperstone",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiTgEuO792k5YTI_z8eofx6jJsgg9r-yWtSi5BKz7GxmB8nxVByOKcGOF2b1unwja_tiDcISTAtq2sfjascH2xY_1DuPjoUrXX9YO-a6Gm6Me9D45fEt8Lwr-X_4DHzGeE1TGnA3vIG498/s320/Hyperstone.jpg",
+    "description": "+55% attack speed",
+    "buyPrice": 2100,
+    "sellPrice": 1050,
+    "shop": "Leragas the Vile",
+    "usedToMake": [
+      "Assault Cuirass"
+    ],
+    "components": []
+  },
+  {
+    "id": "ring-of-health",
+    "name": "Ring of Health",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuZ6Yqr0rSddvV78MqDfJFC8puJwpP8GwcMYt4TuKKYDwHbvYV10d9WI2P6H2tKk5-FyplUVuXYf6h7Qty7kUsxVOu3neem8I2VlyBcfcoLXfRLHWVOFmhfKA9G7IdY7H8xnPsJLnGE4P-/s320/Ring+of+Health.jpg",
+    "description": "+4 HP regen/seconds",
+    "buyPrice": 875,
+    "sellPrice": 437,
+    "shop": "Leragas the Vile",
+    "usedToMake": [
+      "Perseverance",
+      "Vanguard",
+      "Hood of Defiance"
+    ],
+    "components": []
+  },
+  {
+    "id": "void-stone",
+    "name": "Void Stone",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFahsHUO3xXuaqcscAO33KaRGlhneF-Dh2WnQbRU0mVUMxxz-J-3VDS28E0z-Nape4Br8jI135huY4GiQwt1YafaQaX6ya-D6wVXyGaehH73Yx0Vm3jbvtYny0sGlMGsEXAgRpq6Xp3EJQ/s320/Void+Stone.jpg",
+    "description": "+100% mana regeneration",
+    "buyPrice": 875,
+    "sellPrice": 450,
+    "shop": "Leragas the Vile",
+    "usedToMake": [
+      "Perseverance",
+      "Eul's Scepter of Divinity",
+      "Guinsoo"
+    ],
+    "components": []
+  },
+  {
+    "id": "mystic-staff",
+    "name": "Mystic Staff",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNJbqt4L5KavI7g9_841AkzSd4eP11tG_EfYLvzQEMoiRqiwGOh_TZV1IQqJcRiJD3YoVDiD56D9I2m9nV8PZtwAy3qu18ZHM3gK616XaIRIClnmkda37wRdPGEZYNL-2Dmq75qfPoNh8G/s320/Mystic+Staff.jpg",
+    "description": "+25 Intelligence",
+    "buyPrice": 2700,
+    "sellPrice": 1350,
+    "shop": "Leragas the Vile",
+    "usedToMake": [
+      "Shiva's Guard",
+      "Guinsoo"
+    ],
+    "components": []
+  },
+  {
+    "id": "energy-booster",
+    "name": "Energy Booster",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN7XtDVuaB_vSv6ikoVjAfyS27OOew7Qd-48TahChSSmpeLFVsBQGC1MDpQyr6rNssPUlkQjG5FgHGFjKtL83Jgp600C_v_n1g0pyQA7HnX2ZuSjoql1cZ910tSxrpRv6r8oi2wZhRCNtT/s320/Energy+Booster.jpg",
+    "description": "+250 mana",
+    "buyPrice": 1000,
+    "sellPrice": 500,
+    "shop": "Leragas the Vile",
+    "usedToMake": [
+      "Soul Booster",
+      "Arcane  Ring"
+    ],
+    "components": []
+  },
+  {
+    "id": "point-booster",
+    "name": "Point Booster",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLXFJ4ewGNyVaBjhxPSAaAVjIt_QJmYyk4UBDZJrS6FywtPk19iGc7bTQrLrejubQoQUlfAbgME08XrkspRx2KEER3jbOw4-FOhKb9rR-FQB0-r9tXChjIFuGUTEXAk1dGBnEoi9JRP41D/s320/Point+Booster.jpg",
+    "description": "+150 mana\n+200 HP",
+    "buyPrice": 1200,
+    "sellPrice": 600,
+    "shop": "Leragas the Vile",
+    "usedToMake": [
+      "Soul Booster",
+      "Eye of Skadi",
+      "Aghanim's Scepter"
+    ],
+    "components": []
+  },
+  {
+    "id": "vitality-booster",
+    "name": "Vitality Booster",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyiDCESDW6GeH3KrMRR0gX0d7EZdBhWRJhHeEwaIhkE_5kNx2CdC231xfd7sqLVPp9URvtMdBBHdECuIDd17EbqHflKfBfwWUYHSXhNEESM86kQBFYFviB5ZjUtFIpq_IPwH3gXN6uFH-P/s320/Vitality+Booster.jpg",
+    "description": "+250 HP",
+    "buyPrice": 1100,
+    "sellPrice": 550,
+    "shop": "Leragas the Vile",
+    "usedToMake": [
+      "Soul Booster",
+      "Heart of Tarrasque",
+      "Vanguard"
+    ],
+    "components": []
+  },
+  {
+    "id": "orb-of-venom",
+    "name": "Orb of Venom",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkvLuGC2KqH8i_GP3FSawJIqQVBEuahLrST_VGQKYgIh2McTioD26WOClSz4LS2m27ElNTPTjcuu1dsY87J9zpA_Kqrip_U8TTnPqeQyNvm2OPD-HEcYncNSjc4RtoYrEJ_PdZdHntIH8/s320/Orb+of+Venom.jpg",
+    "description": "Adds a poison effect to your attacks. Deals 3dps and lasts 4 seconds. 4% slow for ranged, 12% slow for melee.\n<h2 style=\"background-color: #333333; color: #ff9966; font-size: 16px; font-variant: small-caps; margin-top: 0px; padding: 4px; text-align: center;\"",
+    "buyPrice": 550,
+    "sellPrice": 275,
+    "shop": "Leragas the Vile",
+    "usedToMake": [
+      "Eye of Skadi"
+    ],
+    "components": []
+  },
+  {
+    "id": "assault-cuirass",
+    "name": "Assault Cuirass",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB2fwrbVxY3dCJcKLKZ0xOgxjCpd4A-YHa5fa0OhX0Im2Yh-W_xpOAlYNumBwrKC2Ud7m8I5ygGj8m14raVbniz2YwLtvn6SQyHMKm5s2pbJiD04DKgkPrTp3nrIAUShvMizx8QvQjLWej/s320/Assault+Cuirass.gif",
+    "description": "+10 armor, +35% attack speed\n+5 armor aura, +20% attack speed aura (allies), -5 armor aura(enemy)",
+    "buyPrice": 5550,
+    "sellPrice": null,
+    "shop": "Protectorate",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Platemail",
+        "quantity": 1,
+        "itemId": "plate-mail"
+      },
+      {
+        "name": "Chainmail",
+        "quantity": 1,
+        "itemId": "chainmail"
+      },
+      {
+        "name": "Hyperstone",
+        "quantity": 1,
+        "itemId": "hyperstone"
+      }
+    ]
+  },
+  {
+    "id": "heart-of-tarrasque",
+    "name": "Heart of Tarrasque",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6PYdvZJasAN5m06TaQ3BWisT0FghQdSzJuSNFRaTPM4ab1VS5zQ5LzDmotMHeSS2a6QXQm9jmoxR4OEY1TFSgg77Y-ge65z4SCvLW_8d5bW8g6JzLEBVhyphenhyphenrAck1EMyTp3OtQhoF2fq8o/s1600/Heart+of+Tarrasque.jpg",
+    "description": "+40 Strength, 2% HP regen (not stack, only regenerates when not taken damage from player units for 6 seconds), +300 HP",
+    "buyPrice": 5500,
+    "sellPrice": null,
+    "shop": "Protectorate",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Messerschmidt's Reaver",
+        "quantity": 1,
+        "itemId": "messerschmidt-s-reaver"
+      },
+      {
+        "name": "Vitality Booster",
+        "quantity": 1,
+        "itemId": "vitality-booster"
+      }
+    ]
+  },
+  {
+    "id": "black-king-bar",
+    "name": "Black King Bar",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuexEZAhzNL3DlqiPeki2kkj6PVpw1WtgJkC8trA_lf8phYVjh3WL5qEFaLgQ-FTOgAgDb1pbeC63wvdy_As-NSV2OFjTVWSIswTPw8U49vCQ6orzQP-t6XReByri7tkpv_lclhydtGUM/s320/Black+King+Bar.jpg",
+    "description": "+10 Strength, +24 damage\nAvatar (active) immune spell for 10/9/8/7/6/5 seconds duration\n80/75/70/65/60/55 seconds cooldown seconds",
+    "buyPrice": 3900,
+    "sellPrice": null,
+    "shop": "Protectorate",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Ogre Axe",
+        "quantity": 1,
+        "itemId": "ogre-axe"
+      },
+      {
+        "name": "Mithril Hammer",
+        "quantity": 1,
+        "itemId": "mithril-hammer"
+      }
+    ]
+  },
+  {
+    "id": "shiva-s-guard",
+    "name": "Shiva's Guard",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS_Q88aBBCIfoFzWSkLS4jnJZ_0P5Owd8bDpO0WW54esN0wnWC3vRJAweBJSptr_PepW3Av-6vpyswIlQ2if6dR11-lS-DGau6aP_4CaOnkwuQ6qZQbGC9RbbMqzEQ0yUGxnfgEhZFTkU1/s320/Shiva's+Guard.jpg",
+    "description": "+15 armor, +30 inteligence, -15% attack speed aura\nArctic Blast (active) -40% movement speed, deal 200 damage\n100 mana, 30 seconds cooldown",
+    "buyPrice": 4700,
+    "sellPrice": null,
+    "shop": "Protectorate",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Platemail",
+        "quantity": 1,
+        "itemId": "plate-mail"
+      },
+      {
+        "name": "Mystic Staff",
+        "quantity": 1,
+        "itemId": "mystic-staff"
+      }
+    ]
+  },
+  {
+    "id": "bloodstone",
+    "name": "Bloodstone",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBUaPwbwNxf2QBiRDwGsYuHC2lMKexH9_WlBhTFE5cnX0m9D6xgwHTqJLo0hPa9gZotEyljyzy68Vb031YAhoa1iyrFTUqYB3_zApjQk5FGMcrsnFwYeXXL53qcXhrJnRav_ljtDgM_2Rq/s320/Bloodstone.jpg",
+    "description": "+500 hp, +400 mana, +150% mana regen, +6 hp regen\nWhen nearby enemy hero dead (1000 AoE), gain 1 charge. Each charge give 1 Mana regen. Loses a third charges per death (rounded down). Restore 400 + 30 x charges HP to nearby allies (1700) when die. Gold lost on death is reduced by 25 per charge. Respawn time reduced by 3 seconds per charge.",
+    "buyPrice": 5050,
+    "sellPrice": null,
+    "shop": "Protectorate",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Soul Booster",
+        "quantity": 1,
+        "itemId": "soul-booster"
+      },
+      {
+        "name": "Perseverance",
+        "quantity": 1,
+        "itemId": "perseverance"
+      }
+    ]
+  },
+  {
+    "id": "linken-s-sphere",
+    "name": "Linken's Sphere",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiUTjnfSfT-jVayuRWnOU5Oli0rzjsmzA5fjhQAGAxMfj_LA3zPV_Ms-AIs0krlQFO52fQFZxWdE0l97Kf4ZdQoBiivPMAyXNIv_c-BKaHIzwfnjLF5G7FmXac4Thcqu_IA_mdJvMnCQVV/s320/Linken's+Sphere.jpg",
+    "description": "Blocks most targetted spells once every 20 seconds (passive)\n+6 HP regen/second, +150% mana regen, +15 All Stats",
+    "buyPrice": 5175,
+    "sellPrice": null,
+    "shop": "Protectorate",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Perseverence",
+        "quantity": 1,
+        "itemId": "perseverance"
+      },
+      {
+        "name": "Ultimate Orb",
+        "quantity": 1,
+        "itemId": "ultimate-orb"
+      }
+    ]
+  },
+  {
+    "id": "vanguard",
+    "name": "Vanguard",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEvR2HRfDm1n8Z3AxSzZbTUHF0wSu_drs7WVp_Xk70JZmiVOwaE2J-0MOMAPL1tp1mKNo92Fj1DfrBR9PTG1q39vCJhfFKTF9sJF_lMbbfJVj7GJp6HRLOXF0vHOIjM5zRH6IVPXBtrmgk/s320/Vanguard.JPG",
+    "description": "+6 HP regen/second, +275 HP\n+70% chance to block 40 damage (20 damage for ranged heroes)",
+    "buyPrice": 2225,
+    "sellPrice": null,
+    "shop": "Protectorate",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Ring of Health",
+        "quantity": 1,
+        "itemId": "ring-of-health"
+      },
+      {
+        "name": "Vitality Booster",
+        "quantity": 1,
+        "itemId": "vitality-booster"
+      },
+      {
+        "name": "Stout Shield",
+        "quantity": 1,
+        "itemId": "stout-shield"
+      }
+    ]
+  },
+  {
+    "id": "blade-mail",
+    "name": "Blade Mail",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil0HI89StUJP1Lv8RBfjXRSGp2dsLrTTlXg3YnSA4t-g09_4p_sVclA25F9sci2hgbDBj7_4YvRH57b9uzWqGemjdmgajAtcEAY-RfUIgCVeZzqXm3YfAL1aJMdU_iHIT8yIFvxdCB7YgU/s320/Blade+Mail.jpg",
+    "description": "+22 damage, +5 armor, +10 intelligence\nDamage Return (active) return 100% damage as magical damage\nDuration 4 seconds, Cooldown 25 seconds,Manacost 25\nHas visual effect to show when it is active",
+    "buyPrice": 2200,
+    "sellPrice": null,
+    "shop": "Protectorate",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Broadsword",
+        "quantity": 1,
+        "itemId": "broadsword"
+      },
+      {
+        "name": "Chainmail",
+        "quantity": 1,
+        "itemId": "chainmail"
+      },
+      {
+        "name": "Robe of the Magi",
+        "quantity": 1,
+        "itemId": "robe-of-the-magi"
+      }
+    ]
+  },
+  {
+    "id": "soul-booster",
+    "name": "Soul Booster",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3chh0tUt6HpwmQF_DjT4xbfaIFW3ssTjVe9hKVejP-RrlUN-I14sVWESrG_1wuWOnGcAuVEP1C0pNHE650Nrki-3C4MVfCc4TP_DV9ETSZyJAja3t3URRs0EMwIuRBUHTFkOxEBe47FbR/s320/Soul+Booster.jpg",
+    "description": "+450 HP, +400 mana\n+50% mana regen, +2HP regen/seconds",
+    "buyPrice": 3300,
+    "sellPrice": null,
+    "shop": "Protectorate",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Vitality Booster",
+        "quantity": 1,
+        "itemId": "vitality-booster"
+      },
+      {
+        "name": "Energy Booster",
+        "quantity": 1,
+        "itemId": "energy-booster"
+      },
+      {
+        "name": "Point Booster",
+        "quantity": 1,
+        "itemId": "point-booster"
+      }
+    ]
+  },
+  {
+    "id": "hood-of-defiance",
+    "name": "Hood of Defiance",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjELbUX529rD1TClKE5F2Kr_z5euWegoBybEOH0wG2V8XKDmBUo3ltv5WhGbnRTGjptkid27xJGn55B0ajXU7TUwSNXVbbPVHXdcE6ZDOGo1nM8rcyIuSD9wgqGGc-p4Bes-Ha5KXap6a1K/s320/Hood+of+Defiance.jpg",
+    "description": "+30% spell resistance, +8 hp regen\n<h2 style=\"background-color: #333333; color: #ff9966; font-size: 16px; font-variant: small-caps; margin-top: 0px; padding: 4px; text-align: center;\"",
+    "buyPrice": 2075,
+    "sellPrice": null,
+    "shop": "Protectorate",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Planeswalkers Cloak",
+        "quantity": 1,
+        "itemId": "planeswalker-s-cloak"
+      },
+      {
+        "name": "Ring of Regeneration",
+        "quantity": 2,
+        "itemId": "ring-of-regeneration"
+      },
+      {
+        "name": "Ring of Health",
+        "quantity": 1,
+        "itemId": "ring-of-health"
+      }
+    ]
+  },
+  {
+    "id": "guinsoo-s-scythe-of-vyse",
+    "name": "Guinsoo's Scythe of Vyse",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD0pYyZXWZyG-zaK6riAjJKGrFQNzzCd2cHmWRgLPhyphenhyphenDeI43CFkZn-1LchSnpvYSZ298f-35oPz6roH3n77GY8ckGKUAL-BXR-061HyOUcTm_IlYnLavbb1FRjyor43lwh-qndgzjIU46b/s320/Guinsoo's+Scythe+of+Vyse.jpg",
+    "description": "+35 Intelligence, +200% mana regen, +10 Strength, +10 Agility\nHex (active) turn enemy into sheep for 3.5 seconds\n100 mana, 35 seconds cooldown",
+    "buyPrice": 5675,
+    "sellPrice": null,
+    "shop": "Arcane Sanctum",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Ultimate Orb",
+        "quantity": 1,
+        "itemId": "ultimate-orb"
+      },
+      {
+        "name": "Mystic Staff",
+        "quantity": 1,
+        "itemId": "mystic-staff"
+      },
+      {
+        "name": "Void Stone",
+        "quantity": 1,
+        "itemId": "void-stone"
+      }
+    ]
+  },
+  {
+    "id": "orchid-malevolence",
+    "name": "Orchid Malevolence",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifNEeVxQrEjTwosQQINcnjNXKvNMpRHAuDeY-T3RwpmsR_DkkceYoLoVN4RfGiRlSQUNusAuKS8j2sxVnuHDZHie7eKAqibHcmAlWPWW6vparQIXF0klV9APKMiCFdthuvHzYq6a6nHHKg/s320/Orchid+Malevolence.jpg",
+    "description": "+20 inteligence, +45 damage, +30% attack speed, +225% mana regen\nSoul Burn (active) 5 seconds silence, amplify 20% damage\n25 seconds cooldown, 100 Mana",
+    "buyPrice": 5025,
+    "sellPrice": null,
+    "shop": "Arcane Sanctum",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Oblivion Staff",
+        "quantity": 3,
+        "itemId": "oblivion-staff"
+      }
+    ]
+  },
+  {
+    "id": "eul-s-scepter-of-divinity",
+    "name": "Eul's Scepter of Divinity",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxKQIsiN9FAKnCpLt1i7Q0ATuN5U8EH5zt0HnL_TfqMmwDPIPX_EOQu5NFr7TnLw3Nxl1pt4k6hkN3SEsI0ZTIIQDNW_8j6mCJ1Ps8_9nFtmYlnAoP6rpISYB0zyZDzvt2KAwZh3lDVp2w/s320/Eul's+Scepter+of+Divinity.jpg",
+    "description": "+10 Intelligence, +150% Mana regen , +25 Movement Speed\nCyclone (active) cast cyclone on 1 enemy/self for 2.5 seconds\n75 mana, 30 seconds cooldown",
+    "buyPrice": 2800,
+    "sellPrice": null,
+    "shop": "Arcane Sanctum",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Staff of Wizardry",
+        "quantity": 1,
+        "itemId": "staff-of-wizardry"
+      },
+      {
+        "name": "Void Stone",
+        "quantity": 1,
+        "itemId": "void-stone"
+      },
+      {
+        "name": "Sobi Mask",
+        "quantity": 1,
+        "itemId": "sobi-mask"
+      }
+    ]
+  },
+  {
+    "id": "force-staff",
+    "name": "Force Staff",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMSu7NqWiPjhKQCwEJyh6EvclpkslT5YrnMVrT8-ATnu5Hr0Vhyphenhyphen_GS8036Igr0Rv72Rmxn4AOdZuNm0FwRyCm4bMm8rlR78xxhluQJhW36QVL_u9fSyHqH7DMCpskzRR8zQGPr_a6QEqLN/s400/Force+Staff.jpg",
+    "description": "+10 Intelligence, +10 Damage, +10% Attack Speed\nForce (active) push any unit 600 units into the direction it's facing\n25 mana, 20 seconds cooldown",
+    "buyPrice": 2200,
+    "sellPrice": null,
+    "shop": "Arcane Sanctum",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Staff of Wizardry",
+        "quantity": 1,
+        "itemId": "staff-of-wizardry"
+      },
+      {
+        "name": "Quarter Staff",
+        "quantity": 1,
+        "itemId": "quarterstaff"
+      }
+    ]
+  },
+  {
+    "id": "dagon",
+    "name": "Dagon",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSauqAE7oTNCWAFhsC9wd-hM_PiLWYKGEZgtiCfk62oy7lP8SYvGEbBFoSgPZ_U0WWDEU7H7lQdsqx0L6fsj5CkYxP70-cRle2FZOfcGNH2alPw3jaIq13IERIa2GeVj8wkEq9a0ff_R65/s320/Dagon.jpg",
+    "description": "+13 Intelligence, +9 damage, +3 All Stats\nEnergy Burst (active) 400 damage to single target\n180 mana, 40 seconds cooldown, can be upgraded (4x)\nUpgrade per level : -20 mana cost, -4 seconds cooldown, +100 damage, +2 intelligence",
+    "buyPrice": 2805,
+    "sellPrice": null,
+    "shop": "Arcane Sanctum",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Staff of Wizardry",
+        "quantity": 1,
+        "itemId": "staff-of-wizardry"
+      },
+      {
+        "name": "Null Talisman",
+        "quantity": 1,
+        "itemId": "null-talisman"
+      }
+    ]
+  },
+  {
+    "id": "necronomicon",
+    "name": "Necronomicon",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmuHhDDrnqry7mk71VkoILh6VK9UAwyGPaB6bj0iLufOAovZ6ZUz4mTG3O_Si5iNJj6eOTP8uuSPSWiripFXyJRyfjfCSKeyzF8KyWl_JOYFeFwGPE89rM1Jw3N3ZIv8uhIlFL9t1CbuKO/s320/Necronomicon.jpg",
+    "description": "+15 Intelligence, +6 Strength\nDemonic Summoning (active) Summon 2 Demon with special abilites\n50 mana, 90 seconds cooldown, can be upgraded (2x)\nSummons can't attack Ancient unit\nLevel 1 :\nWarrior 400 hp, 21 - 21 normal damage, 6 heavy armor\nHas Mana Break (burn 25 mana per hit) and Last Will (deals 200 damage to unit that kills it)\nArcher 400 hp, 31 - 31 piercing damage, 6 heavy armor\nHas Mana Burn (125 burned, 250 range) and Endurance Aura (increases nearby unit's movement and attack speed by 3%)\nLevel 2\n+21 Intelligence, +10 Strength\nWarrior 600 hp, 41 - 41 normal damage, 8 heavy armor\nHas Mana Break (burn 50 mana per hit) and Last Will (deals 400 damage to unit that kills it)\nArcher 600 hp, 61 - 61 piercing damage, 8 heavy armor\nHas Mana Burn (175 burned, 250 range) and Endurance Aura (increases nearby unit's movement and attack speed by 6%)\nLevel 3\n+24 Intelligence, +14 Strength\nWarrior 800 hp, 61 - 61 normal damage, 10 heavy armor\nHas Mana Break (burn 75 mana per hit), Last Will (deals 600 damage to unit that kills it), Magic Sentry (Increased vision range, also reveals nearby invisible units)\nArcher 800 hp, 91 - 91 piercing damage, 10 heavy armor\nHas Mana Burn (225 burned, 250 range), Endurance Aura (increases nearby unit's movement and attack speed by 9%)",
+    "buyPrice": 2700,
+    "sellPrice": null,
+    "shop": "Arcane Sanctum",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Staff of Wizardry",
+        "quantity": 1,
+        "itemId": "staff-of-wizardry"
+      },
+      {
+        "name": "Belt Of Giant Strength",
+        "quantity": 1,
+        "itemId": "belt-of-giant-strength"
+      }
+    ]
+  },
+  {
+    "id": "aghanim-s-scepter",
+    "name": "Aghanim's Scepter",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN9kBAdEZUJU-j30yAGZRimFl2VYbjbCYtx3M-9arGY1yivlDgcUVAXbq_oTHK6EEjOQ_cWCvHssFAZ_sciPmiL4TlncT3AmKkBK8T9Q1IZui2cd4wzPpwoGiTqsld3M5Zl_RSCdMiOxIS/s320/Aghanim's+Scepter.jpg",
+    "description": "+10 all attributes, +200 HP, +150 Mana\nImproves Ultimates for Lord of Avernus, Bane Elemental, Earthshaker, Holy Knight, Clockwerk Goblin, Shadow Priest, Sacred Warrior, Invoker, Juggernaut, Tormented Soul, Slayer, Demon Witch, Moon Rider, Necrolyte, Nightstalker, Pandaren Brewmaster, Butcher, Oblivion, Queen of Pain, Shadow Shaman, Crystal Maiden, Spiritbreaker, Sand King, Twin Head Dragon, Undying, Vengeful Spirit, Venomancer, Faceless Void, Windrunner, Witch Doctor, and Lord of Olympia.",
+    "buyPrice": 4200,
+    "sellPrice": null,
+    "shop": "Arcane Sanctum",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Point Booster",
+        "quantity": 1,
+        "itemId": "point-booster"
+      },
+      {
+        "name": "Ogre Axe",
+        "quantity": 1,
+        "itemId": "ogre-axe"
+      },
+      {
+        "name": "Blade of Alacrity",
+        "quantity": 1,
+        "itemId": "blade-of-alacrity"
+      },
+      {
+        "name": "Staff of Wizardry",
+        "quantity": 1,
+        "itemId": "staff-of-wizardry"
+      }
+    ]
+  },
+  {
+    "id": "refresher-orb",
+    "name": "Refresher Orb",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5J8aheS3-b0gcvCMAQFr-8iefw2idYOg-IJT-VydyRnYSKtkzBqwuuePzTyPZ7SAyffLGKsL_T1Y3alvhj9kwcN-rlT1hRApfrN9QjB0-fv1xoNVQDJrtl_1fg_2U9RCvUSXli65bR8Yg/s320/Refresher+Orb.jpg",
+    "description": "+5 HP regen/second, +200% mana regen, +40 damage\nReset Cooldown (active) all ability cooldowns turn to 0\n375 mana, 210 seconds cooldown\n<h2 style=\"background-color: #333333; color: #ff9966; font-size: 16px; font-variant: small-caps; margin-top: 0px; padding: 4px; text-align: center;\"",
+    "buyPrice": 5300,
+    "sellPrice": null,
+    "shop": "Arcane Sanctum",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Oblivion Staff",
+        "quantity": 1,
+        "itemId": "oblivion-staff"
+      },
+      {
+        "name": "Perseverance",
+        "quantity": 1,
+        "itemId": "perseverance"
+      }
+    ]
+  },
+  {
+    "id": "mekansm",
+    "name": "Mekansm",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIMs0uoZVDb-LmcL6nhFwPbYocAq5xYrn7yW7Ew6_IhyphenhyphenovbgI5B1eEQ0hPwGQpOKYGCm23AHRmNdqMrI6oPAlJ9hgY5mdP7oI-MwqktcBL5z_ALnGtqhv1a8lnjynlqNndsWC_GA-vjWGS/s320/Mekansm.jpg",
+    "description": "+5 to all stats, +3 armor, +4 HP regen aura\nHeal (active) +2 armor, 250hp, 750 AoE\n150 mana, 45 seconds cooldown. Cannot healed twice on 30 seconds",
+    "buyPrice": 2306,
+    "sellPrice": null,
+    "shop": "Supportive Vestment",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Headdress of Rejuvenation",
+        "quantity": 1,
+        "itemId": "headdress-of-rejuvenation"
+      },
+      {
+        "name": "Natherezim Buckler",
+        "quantity": 1,
+        "itemId": "natherezim-buckler"
+      }
+    ]
+  },
+  {
+    "id": "vladmir-s-offering",
+    "name": "Vladmir's Offering",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbFOuHzQ96zkAFSNgCPcXNCrsRcO8PcJFNbaDzcIqI3E7OSBSHh85rlDdzSBpR4jhqke3BzII0jZDOi1s5YrkTemqGG3uAMCbZtR3LBopm6ARuug_wxVvW3PzqOs7y7dHV37PZeJUMIdIM/s320/Vladimir's+Offering.jpg",
+    "description": "+16% Vampiric Aura (melee), +0.80 Mana Regeneration Aura\n+5 Armor Aura, +15% Damage Aura",
+    "buyPrice": 2050,
+    "sellPrice": null,
+    "shop": "Supportive Vestment",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Ring of Basilius",
+        "quantity": 1,
+        "itemId": "ring-of-basilius"
+      },
+      {
+        "name": "Mask of Death",
+        "quantity": 1,
+        "itemId": "mask-of-death"
+      },
+      {
+        "name": "Ring of Regeneration",
+        "quantity": 1,
+        "itemId": "ring-of-regeneration"
+      }
+    ]
+  },
+  {
+    "id": "arcane-boots",
+    "name": "Arcane Boots",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhipPMUTXhkij7XKoyvkF_76bl_TyparefBlFprwKbLJOa4KtAKet0SqjFHfzWPvxRsVfQkNjZ-yipWc0XwdnVav_BXm_wpBVL9Xw2W-MJcPSO0IcwomW9yMTGfjZC2LunHw6aThiFYbiw/s320/Arcane+Boots.jpg",
+    "description": "+65 Movement Speed, +250 Mana\nReplenish Mana (active) replenish 135 mana to nearby allies (600 AoE)\n25 mana, 45 seconds cooldown",
+    "buyPrice": 1500,
+    "sellPrice": null,
+    "shop": "Supportive Vestment",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Energy Booster",
+        "quantity": 1,
+        "itemId": "energy-booster"
+      },
+      {
+        "name": "Boots of Speed",
+        "quantity": 1,
+        "itemId": "boots-of-speed"
+      }
+    ]
+  },
+  {
+    "id": "flying-courier",
+    "name": "Flying Courier",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhccfKWNB3hwI3H0vIbtVhVw_Z3xyysaiF4IUA-hwMHSyvibkSt9nXRLX7DyeD9bPjSnJgaqRpFfLYXmKn_u0iRictBndU9JDFNCl-CrpZ0P9Mb_R2KMpymGElxSkXfbZGDb_3-KGe35SdT/s320/Flying+Courier.jpg",
+    "description": "Summon a very fast flying unit with 6 items slot, 150 hp, 10 armor\nCan cast Burst and Courier Shield\nIf die, all the items will be fall to the ground. Has magic immunity.\nCannot carry Gem of Truesight and Aegis\nBurst (active) movement speed boost for 20 seconds\nCourier Shield (active) immune all damage for 7 seconds",
+    "buyPrice": 400,
+    "sellPrice": null,
+    "shop": "Supportive Vestment",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Animal courier",
+        "quantity": 1,
+        "itemId": "animal-courier"
+      }
+    ]
+  },
+  {
+    "id": "natherezim-buckler",
+    "name": "Natherezim Buckler",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia37Cm8cy8BD22mFDd-ju48enOOMm91GN6NfsmtuLYXxipTJ6jZl9JZ9l_N0NSHuSzMs6aEoRjfFkZyrxYjBu6HvPSPMApqbW-UwFTtVrWDLmikGyZiRz9PcjyVuiQhtjmwS5SpdWUhNq9/s320/Nathrezim+Buckler.jpg",
+    "description": "+5 armor, +2 all stats\nArea bonus armor (active) +2 armor\n10 mana, 25 seconds cooldown",
+    "buyPrice": 803,
+    "sellPrice": null,
+    "shop": "Supportive Vestment",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Chainmail",
+        "quantity": 1,
+        "itemId": "chainmail"
+      },
+      {
+        "name": "Ironwood Branch",
+        "quantity": 1,
+        "itemId": "ironwood-branch"
+      }
+    ]
+  },
+  {
+    "id": "ring-of-basilius",
+    "name": "Ring of Basilius",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0hmLm8ctoGXW1JnAI6-6MyW2izF9uXhB2p3hv_vm6dnTgj4SECrpci7wN-WHjQVZVS1zf94ouIHvELg3-TuXm1o-h4NdKNDmpcSPrm4dWorC4xdJ4BbUF65Vrh3G8kuHk1G4AO9VBitO3/s320/Ring+of+Basilius.jpg",
+    "description": "+6 damage, 1 armor\nBrilliance Aura +0.65 mana regen\nDevotion Aura +2 armor",
+    "buyPrice": 500,
+    "sellPrice": null,
+    "shop": "Supportive Vestment",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Ring of Protection",
+        "quantity": 1,
+        "itemId": "ring-of-protection"
+      },
+      {
+        "name": "Sobi Mask",
+        "quantity": 1,
+        "itemId": "sobi-mask"
+      }
+    ]
+  },
+  {
+    "id": "khadgard-s-pipe-of-insight",
+    "name": "Khadgard's Pipe of Insight",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-CULfb4BXKpV2A1JX4b5QUI0PQ5a253p-aTZw8ZKTGmRlq9IOKJQ7oylaWxAySrLmpkrquR8mUnrzUDl0gUwWJLyXvAMKUHdcOJ5oHBK7kGYihQI2aI6kjXRlIO0BzM8QuadHruwXnrqj/s400/Pipe+of+insight.jpg",
+    "description": "+10 HP/sec regen, +30% magic resistance\nBarrier (active)\nBarrier protects allies within 500 range from 400 spell damage for 8 seconds\n100 manacost, 60 seconds cooldownDoes not affect units that have been affected by Barrier in the last 50 seconds",
+    "buyPrice": 3753,
+    "sellPrice": null,
+    "shop": "Supportive Vestment",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Hood of Defiance",
+        "quantity": 1,
+        "itemId": "hood-of-defiance"
+      },
+      {
+        "name": "Headdress of Rejuvenation",
+        "quantity": 1,
+        "itemId": "headdress-of-rejuvenation"
+      }
+    ]
+  },
+  {
+    "id": "urn-of-shadows",
+    "name": "Urn of Shadows",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKQaodihiL59nZxSF_tEK3kcB_3GztRWDplZDFj7BWILVZgdpvKBG7w2kd2R7ZVbUiN3mu-M6UGAs4rrSdf17-UZo4Gbtq_uGviRviId19lDXqqm86SoWMr2ohFyxWgOXC-Mv4gGskNfI/s320/Urn+of+Shadows.jpg",
+    "description": "+50% Mana Regeneration, + 6 Strength\nSoul Release (active)\nCan expend one charge to target an allied or enemy hero. If an ally is targeted, it is healed for 400 HP over 8 seconds (this effect ends if the hero takes damage from a source other than the creeps). If an enemy is targeted, it takes 200 damage over 8 seconds. Has a 10 second cooldown, and 950 cast range",
+    "buyPrice": 875,
+    "sellPrice": null,
+    "shop": "Supportive Vestment",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Sobi Mask",
+        "quantity": 1,
+        "itemId": "sobi-mask"
+      },
+      {
+        "name": "Gauntlets of Ogre Strength",
+        "quantity": 2,
+        "itemId": "gauntlets-of-ogre-strength"
+      }
+    ]
+  },
+  {
+    "id": "headdress-of-rejuvenation",
+    "name": "Headdress of Rejuvenation",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkGwRKTZa4D9ttE8G-QyE3vF8vgjw3sN138aF-rk09udh95XAoGjgirwUibEZej6cG4X9q1LTJhBUKZU7PC-1c30T3MA1dMnGb6A60GxXy1fUDg8TB5ZB_IZkj4vWMoM9OYhUp8XJjWRqw/s320/Headdress+of+Rejuvenation.jpg",
+    "description": "+2 to all stats, +3 hp regen aura\n<h2 style=\"background-color: #333333; color: #ff9966; font-size: 16px; font-variant: small-caps; margin-top: 0px; padding: 4px; text-align: center;\"",
+    "buyPrice": 603,
+    "sellPrice": null,
+    "shop": "Supportive Vestment",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Ironwood Branch",
+        "quantity": 1,
+        "itemId": "ironwood-branch"
+      },
+      {
+        "name": "Ring of Regeneration",
+        "quantity": 1,
+        "itemId": "ring-of-regeneration"
+      }
+    ]
+  },
+  {
+    "id": "divine-rapier",
+    "name": "Divine Rapier",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEishU20qTxtgZepYoBYpgOCWxNnYVCPTSJPcth5b1J5YOVLkc3fGuO3jNEtZnhzkjZQhPZ_e6lqRthfHWUHYF9CXlBKW7GQXdnQKnu9UGahB0OkkeAKAH0yWas3hLP4t008VG2a1A7KTSQ/s320/Divine+Rapier.jpg",
+    "description": "+250 damage\nDrops upon death",
+    "buyPrice": 6200,
+    "sellPrice": null,
+    "shop": "Ancient Weaponry",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Sacred Relic",
+        "quantity": 1,
+        "itemId": "sacred-relic"
+      },
+      {
+        "name": "Demon Edge",
+        "quantity": 1,
+        "itemId": "demon-edge"
+      }
+    ]
+  },
+  {
+    "id": "monkey-king-bar",
+    "name": "Monkey King Bar",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnqjZbzQP2m7bEtZcl9JZHUkjnU_QxNqkWRzFffcfxhS4ipr9FIrWNJY6gB38gQBXqVBgahGUaFE7AdCRhnVMvWXQwCbX78_ZADDiTmMBsFCZ38dQFGWYBnS220l0IrmdTQsSvqT6Ip4yj/s320/Monkey+King+Bar.gif",
+    "description": "+88 damage, +15% increased attack speed\nTrue Strike (passive)\nTrue Strike causes your attacks to never miss\nTrue Strike is not compatible with some attack modifiers\n35% chance for 100 bonus damage and stop channeling spells",
+    "buyPrice": 5400,
+    "sellPrice": null,
+    "shop": "Ancient Weaponry",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Demon Edge",
+        "quantity": 1,
+        "itemId": "demon-edge"
+      },
+      {
+        "name": "Javelin",
+        "quantity": 2,
+        "itemId": "javelin"
+      }
+    ]
+  },
+  {
+    "id": "radiance",
+    "name": "Radiance",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitl-ikIGE4PglqYHTbnh4dw5PZeEshBZL0vKgMrVWZY_v1LxBzi2gh_yKkfJ6nk6nj9089RgwbIk1-5BF1Gt7-9U1z1kQQF4rudWtG_MVWx71IapRE6nyug85FNOvWne6XmKduGRs_-U5B/s320/Radiance.jpg",
+    "description": "+60 damage\nBurn Damage (passive) nearby enemies (650 AoE) deal 40damage/sec",
+    "buyPrice": 5150,
+    "sellPrice": null,
+    "shop": "Ancient Weaponry",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Sacred Relic",
+        "quantity": 1,
+        "itemId": "sacred-relic"
+      }
+    ]
+  },
+  {
+    "id": "the-butterfly",
+    "name": "The Butterfly",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0tmxeDiCGkrgH6txffrZEIbn4vI7jsMtbggMTFUh1G6dU2lebkQv7TlImtP6HfjbKkCp3pzkJ6NZMqR6sJ_jC9NvXi4Dxm1uBa9GPi8q1bJbDzOP7KlBObLJwe3WQf6oa51ljUyOnvnZh/s320/The+Butterfly.gif",
+    "description": "+30 Agility, +30 damage\n+30% attack speed, +30% Evasion",
+    "buyPrice": 6000,
+    "sellPrice": null,
+    "shop": "Ancient Weaponry",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Eaglehorn",
+        "quantity": 1,
+        "itemId": "eaglehorn"
+      },
+      {
+        "name": "Quarterstaff",
+        "quantity": 1,
+        "itemId": "quarterstaff"
+      },
+      {
+        "name": "Talisman of Evasion",
+        "quantity": 1,
+        "itemId": "talisman-of-evasion"
+      }
+    ]
+  },
+  {
+    "id": "buriza-do-kyanon",
+    "name": "Buriza-do Kyanon",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9pXET3l5fJ5Pzgq_Mc5m9M_MLP7yepRlBqjcj4BZNg0mebOozpfw2Xfhz5mgmeAsjrC_oRWbIlx3c41sjAhdt8FaMbAKA60ghnsz2qg41kPuEHh1oJeS-f-XXSy1bvinKFvb0cnl74ipo/s320/Buriza-do+Kyanon.gif",
+    "description": "+81 damage\n20% chance 2.5x Critical Strike (passive)",
+    "buyPrice": 5750,
+    "sellPrice": null,
+    "shop": "Ancient Weaponry",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Demon Edge",
+        "quantity": 1,
+        "itemId": "demon-edge"
+      },
+      {
+        "name": "Crystalys",
+        "quantity": 1,
+        "itemId": "crystalys"
+      }
+    ]
+  },
+  {
+    "id": "cranium-basher",
+    "name": "Cranium Basher",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjntsTBxJFuk4hTQGh3qA0qWiXG4zKYoP9qjbTzLjwdiy7M9phUTsox0bxLpzzvbIUktgeEpF3IMerEoeZ6MXWdTJnblS6_FKV9B5DweewsqQxBtDdau-XeC1N2Vo5xULv-0lOnl5CA81X/s320/Cranium+Basher.jpg",
+    "description": "+40 damage, +6 Strength\nBash (passive) 1.4 second stun, cooldown 2 seconds, not stack with itself or other bash passives\n25% chance (melee), 10% chance (ranged)",
+    "buyPrice": 3100,
+    "sellPrice": null,
+    "shop": "Ancient Weaponry",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Javelin",
+        "quantity": 1,
+        "itemId": "javelin"
+      },
+      {
+        "name": "Belt of Giant Strenght",
+        "quantity": 1,
+        "itemId": "belt-of-giant-strength"
+      }
+    ]
+  },
+  {
+    "id": "battle-fury",
+    "name": "Battle Fury",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLc-IHTBF3_7Cbe2x7bFW0PC6Mbx8P2WeGahvfEAFx_Q3VH4hY5Jess3DYXr6LX-KWSTvn-tDz5W5J1JmzkJVp5lDuZ62MQGMnK_J2qcgTcAss1NY1IhfalpCcPC86rBOuEGIf-2ZuKtI/s320/Battlefury.jpg",
+    "description": "+65 damage, +150% mana regen, +6 HP/sec regen\nCleaving Attack (passive, melee) 35% splash damage",
+    "buyPrice": 4350,
+    "sellPrice": null,
+    "shop": "Ancient Weaponry",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Broadsword",
+        "quantity": 1,
+        "itemId": "broadsword"
+      },
+      {
+        "name": "Perseverence",
+        "quantity": 1,
+        "itemId": "perseverance"
+      },
+      {
+        "name": "Claymore",
+        "quantity": 1,
+        "itemId": "claymore"
+      }
+    ]
+  },
+  {
+    "id": "manta-style",
+    "name": "Manta Style",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLuMzKaPblyyU0u1k8jdLBeAWG9qzKT2eNNSDp5uiD4qAT6tGuypDZPhKNHc8tLGWkzpg0e-ClCp-talQ-35Uas5na1aNf4HWzUh8ySET6byfjPbvnLMGJ2RouAoyaAiCGfwXOQBEKF4Eh/s320/Manta+Style.jpg",
+    "description": "+26 Agility, +10 Intelligence, +10 Strength, +15% attack speed, 10% movement speed\nIllusion (active)\nDuration 20 seconds, costs 165 mana\nRanged: Deals 28%, Takes 400% Damage, Cooldown 50\nMelee: Deals 33%, Takes 350% Damage, Cooldown 35",
+    "buyPrice": 4900,
+    "sellPrice": null,
+    "shop": "Ancient Weaponry",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Ultimate Orb",
+        "quantity": 1,
+        "itemId": "ultimate-orb"
+      },
+      {
+        "name": "Yasha",
+        "quantity": 1,
+        "itemId": "yasha"
+      }
+    ]
+  },
+  {
+    "id": "crystalys",
+    "name": "Crystalys",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6j0tWJg-a9qH9jeC0iz242M6C7sPTopVGVGG13Ay3dYqE9xLCj_4I9u-9DRwtPywW0T6FXCizdV7TK17JJmJf8JFlL2Rk6nZRsCahnqcw9J-pH8QsVpJCLmHKatNeRFc2c0RRdwvtzSSP/s320/Crystalys.jpg",
+    "description": "+35 damage\n10% chance 1.75x critical strike (passive)",
+    "buyPrice": 2150,
+    "sellPrice": null,
+    "shop": "Ancient Weaponry",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Broadsword",
+        "quantity": 1,
+        "itemId": "broadsword"
+      },
+      {
+        "name": "Blades of Attack",
+        "quantity": 1,
+        "itemId": "blades-of-attack"
+      }
+    ]
+  },
+  {
+    "id": "armlet-of-mordiggian",
+    "name": "Armlet of Mordiggian",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZHxd293GCGIRUCAZJkTliPobhsv345HsX2tgQJ80g3iaeQ_Qggp_VmqAAH8FX3-IADY512eOnzyMUAS72LOsZw73x6lpXUm68NNgQ6tFGi-SGMjf85kLjRhyphenhyphennIl8sbakD9vaYasfYYkYf/s320/Armlet+of+Mordiggian.jpg",
+    "description": "+9 damage, +15% attack speed, +5 armor, +5 hp regen\nUnholy Strength (active) +31 damage, +10% attack speed, + 25 Strength, - 37 hp/sec\n5 seconds cooldown",
+    "buyPrice": 2600,
+    "sellPrice": null,
+    "shop": "Ancient Weaponry",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Helm of Iron Will",
+        "quantity": 1,
+        "itemId": "helm-of-iron-will"
+      },
+      {
+        "name": "Glove of Haste",
+        "quantity": 1,
+        "itemId": "gloves-of-haste"
+      },
+      {
+        "name": "Blades of Attack",
+        "quantity": 1,
+        "itemId": "blades-of-attack"
+      }
+    ]
+  },
+  {
+    "id": "lothar-s-edge",
+    "name": "Lothar's Edge",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaeQwMw7zkvFvBsxmijpIBGBdoz6UrTL6ASSS_RlNZUlGgHbs2bN1m10CuutKtStKAWEtF3UCU0LEde7VHmZqifvbvXMqMtfbiij7CIgPDgxLng36l6P6a1Z-HFUlvqJLQGsher00ZWM0/s320/Lothars+Edge.jpg",
+    "description": "+10 Attack Speed, +38 damage\nWind Walk (active) +20% movement speed, 9 seconds duration, 125 backstab damage\n75 mana, 18 seconds cooldown",
+    "buyPrice": 3400,
+    "sellPrice": null,
+    "shop": "Ancient Weaponry",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Claymore",
+        "quantity": 1,
+        "itemId": "claymore"
+      },
+      {
+        "name": "Quarter Staff",
+        "quantity": 1,
+        "itemId": "quarterstaff"
+      }
+    ]
+  },
+  {
+    "id": "ethereal-blade",
+    "name": "Ethereal Blade",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnbE-joolGfbGAuRqZEdrJ5rBG5Qg8DgB7vTfcs5pFSq8yyPAu5Apji3qJ1oDIqm7KrM3yPXxEQMQh4wzuER4pEtdNyBduRv5lXMYdCfZcCyq7ZLfiM51_VfP_BOKm2jGHAb7E85JE6w8/s320/Ethereal+Blade.jpg",
+    "description": "+ 40 Agility, + 10 Strength, + 10 Intelligence\nEther Blast (active) Upon targeting an enemy hero, both your hero and the target get banished for 3 seconds. Target takes 2.5x your Agi in magic damage and is slowed by 45% for 3 seconds.\n50 mana, 30 seconds cooldown\nNote: Shares cooldown with Ghost Scepter, can target yourself\n<h2 style=\"background-color: #333333; color: #ff9966; font-size: 16px; font-variant: small-caps; margin-top: 0px; padding: 4px; text-align: center;\"",
+    "buyPrice": 4800,
+    "sellPrice": null,
+    "shop": "Ancient Weaponry",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Eaglehorn",
+        "quantity": 1,
+        "itemId": "eaglehorn"
+      },
+      {
+        "name": "Ghost Scepter",
+        "quantity": 1,
+        "itemId": "ghost-scepter"
+      }
+    ]
+  },
+  {
+    "id": "sange-and-yasha",
+    "name": "Sange and Yasha",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLOaQhWl3YeMg6WbXn5AN-e2R0cuRXZMWa_IMAJT8h47luskdM2vxaKc8D2BbwdSOczpIle2TExBPYfEk9KwlMF6atK000nVfgA_nAFdVFOjDWbjuWkx9toohOg2FyqadJyFMNYkzK7HMj/s320/Sange+and+Yasha.jpg",
+    "description": "+16 Agility, +16 Strength, +12 damage\n15% chance to Greater Maim (Orb, passive)Greater Maim: 30% movement speed and 30% attack speed slow for 4 second\n12% increased movement speed, 15% increased attack speed",
+    "buyPrice": 4400,
+    "sellPrice": null,
+    "shop": "Enchanted Artifacts",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Sange",
+        "quantity": 1,
+        "itemId": "sange"
+      },
+      {
+        "name": "Yasha",
+        "quantity": 1,
+        "itemId": "yasha"
+      }
+    ]
+  },
+  {
+    "id": "satanic",
+    "name": "Satanic",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTblLD2-ms6Wtjsau1uTZg9WIzTzP1adAfTkv_Tyi0eHXpHf1W9PnBHWovbP8ocxh9LtkPOuFmwxdT-3p6Pgd1Oa1oa9Hnhr6khH0Umt8w0CLrj_6-a1W4rtiVpK99NHFVPfkjd36V5k/s320/Satanic.jpg",
+    "description": "+25 Strength, 20 damage, +5 armor, 25% lifesteal (Orb, passive)\nUnholy Rage (active) +175% lifesteal, 3.5 seconds duration\n35 seconds cooldown",
+    "buyPrice": 6150,
+    "sellPrice": null,
+    "shop": "Enchanted Artifacts",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Dominator",
+        "quantity": 1,
+        "itemId": "helm-of-the-dominator"
+      },
+      {
+        "name": "Messerschmidt's Reaver",
+        "quantity": 1,
+        "itemId": "messerschmidt-s-reaver"
+      }
+    ]
+  },
+  {
+    "id": "mjollnir",
+    "name": "Mjollnir",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjievAZCi3EOFAPNic84Tbx6Fc40fwYLNjoIM6fcK6NIqePppyl_0JAUAmFWPwJ7xYSRTxuOTcShWGfx_cBObiDq29q1zx6r0xjiDtEYPki9jD5f85YsrpMAdDX0Y7YEv1MUxOEL3pUnmay/s400/Mjollnir.jpg",
+    "description": "+70 attack speed, +24 damage\nChain Lightning (Orb, passive) 25% chance 160 damage, hits 4 units, 500 bounce range\nStatic Charge (active) 20% chance 200 damage strike the attacking unit and 2 nearby enemies\n50 mana, 35 seconds cooldown, 20 seconds duration, 600 cast range",
+    "buyPrice": 5500,
+    "sellPrice": null,
+    "shop": "Enchanted Artifacts",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Maelstorm",
+        "quantity": 1,
+        "itemId": "maelstrom"
+      },
+      {
+        "name": "Hyperstone",
+        "quantity": 1,
+        "itemId": "hyperstone"
+      }
+    ]
+  },
+  {
+    "id": "eye-of-skadi",
+    "name": "Eye of Skadi",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLn8Kbh6BXU3Fbq0XgG9C5KQhxv0SzDNCig23HGGS3-fzy2tlLvVoxaixfW8dVS0QLZNsKYUIIP6zVsGVMHzET0ey0PbauYNb-VdPJXRZVUEvTLwSqwqC9Oq8vynj80nM9BHQY4z-KQ-gs/s320/Eye+of+Skadi.JPG",
+    "description": "+25 All Stats, +200 HP, +150 Mana\nCold attack (passive, orb) slow enemy (30% movement speed and 20% attack speed) on attack",
+    "buyPrice": 5950,
+    "sellPrice": null,
+    "shop": "Enchanted Artifacts",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Ultimate Orb",
+        "quantity": 2,
+        "itemId": "ultimate-orb"
+      },
+      {
+        "name": "Point Booster",
+        "quantity": 1,
+        "itemId": "point-booster"
+      },
+      {
+        "name": "Orb of Venom",
+        "quantity": 1,
+        "itemId": "orb-of-venom"
+      }
+    ]
+  },
+  {
+    "id": "sange",
+    "name": "Sange",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRAaKIlOTJkpyrIo_EX_5UwFIdaXBGHineUxkSY-punNwLDoquYyy6FxNeAAjXurp8fSRRePfsGcXPj2nGvArs0XgZoq6P_VBCsfexyZwHH-svOoWCb2BZUdrTJqXw2Pnx6_V6k84Xz0_O/s320/Sange.jpg",
+    "description": "+16 Strength, +10 damage\n15% chance Lesser Maim (Orb) -20% movement speed and -20% attack speed for 6 sec",
+    "buyPrice": 2150,
+    "sellPrice": null,
+    "shop": "Enchanted Artifacts",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Ogre Axe",
+        "quantity": 1,
+        "itemId": "ogre-axe"
+      },
+      {
+        "name": "Belt of Giant Strength",
+        "quantity": 1,
+        "itemId": "belt-of-giant-strength"
+      }
+    ]
+  },
+  {
+    "id": "helm-of-the-dominator",
+    "name": "Helm of the Dominator",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXe_uzTu2J9Xw5UOaZ1610BTq2vIeBvqivlHWQqsh7pphoyKTHZImCf8LIl0_uk20E0lTwk1QxVXgFCSFxUzRndyUF5EXl3Uq4kVjQuCSolfQc5dDjv0Ae9R1JGxr0j1ztaMLX1EfMy7E/s320/Helm+of+Dominator.jpg",
+    "description": "+20 damage, +5 armor, 15% Lifesteal (Orb, passive)\nDominate (active) Gain control of an enemy creep for 20 minutes\n75 mana, 300 seconds cooldown",
+    "buyPrice": 1850,
+    "sellPrice": null,
+    "shop": "Enchanted Artifacts",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Helm of Iron Will",
+        "quantity": 1,
+        "itemId": "helm-of-iron-will"
+      },
+      {
+        "name": "Mask of Death",
+        "quantity": 1,
+        "itemId": "mask-of-death"
+      }
+    ]
+  },
+  {
+    "id": "maelstrom",
+    "name": "Maelstrom",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqPgktSklqISq1jBMoSQ8RRenr5VNjqajyVNkOb7-wMblUt9P8in7Fsdx6men_7_nngbdjz6VScfGp3UF8kbxkveV_1NONWjPXZls4IxI0isnA-rOj9XcBjgw8j_bfZre35qKAMHSt2-wy/s320/Maelstrom.jpg",
+    "description": "+25% attack speed, +24 damage\nChain Lightning (Orb, passive) 25% chance 120 damage hits 4 targets",
+    "buyPrice": 2900,
+    "sellPrice": null,
+    "shop": "Enchanted Artifacts",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Gloves of Haste",
+        "quantity": 1,
+        "itemId": "gloves-of-haste"
+      },
+      {
+        "name": "Mithril Hammer",
+        "quantity": 1,
+        "itemId": "mithril-hammer"
+      }
+    ]
+  },
+  {
+    "id": "stygian-desolator",
+    "name": "Stygian Desolator",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX7-ogZbvCONYcmygeaWyvwgqkfmFWSkCJ_rnwIUL0tqlmgxgUQUtC7BVAnJO8b7NELHclv4LR643ZdIr7CAjbB4p5jhKoF9dhLRJFuPnsvJRMgAena3b6rsS6Ro-LfYGn4aweSoV6hC6y/s320/Stygian+Desolator.jpg",
+    "description": "+60 damage\nCorruption (Orb, passive) reduce target enemy's armor by 6 for 7 seconds",
+    "buyPrice": 4400,
+    "sellPrice": null,
+    "shop": "Enchanted Artifacts",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Mithril Hammers",
+        "quantity": 2,
+        "itemId": "mithril-hammer"
+      }
+    ]
+  },
+  {
+    "id": "yasha",
+    "name": "Yasha",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg98f6kxsGtVBVWF-bZFDjTbf8BdTn7aYJBES4S2W81mSLP6rpKeKi1JhDOwtHKfdomlK9UgB0IYPtcmpXI2jw2TOQt95V7OwZXTr3N97EHaPULX1XHn08Y37ofb_N_U09-wG1MIZ9yG_c_/s320/Yasha.jpg",
+    "description": "+16 Agility, 10% increased movespeed\n15% increased attack speed",
+    "buyPrice": 2150,
+    "sellPrice": null,
+    "shop": "Enchanted Artifacts",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Blade of Alacrity",
+        "quantity": 1,
+        "itemId": "blade-of-alacrity"
+      },
+      {
+        "name": "Boots of Elvenskin",
+        "quantity": 1,
+        "itemId": "boots-of-elvenskin"
+      }
+    ]
+  },
+  {
+    "id": "mask-of-madness",
+    "name": "Mask of Madness",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmDvTcsIZw06BzBTVDBy3v2Sgy7_JGVYIvv1hU1bYNrUiC_NQYiHPJKlV-531j_py8FunZuelrjiE4XzYdTl2-J2-_NpeTPTxCH8ZZoDH4d6nBQ_iQ4WGJvWzdcPHNt0RXQEXFdvaXfJU/s320/Mask+of+Madness.jpg",
+    "description": "17% Lifesteal (Orb, passive)\nBerserk (active) +100% attack speed, +20% movement speed, +30% damage taken (Amplified damage happens as you take the damage once again)\n25 mana, 25 seconds cooldown",
+    "buyPrice": 1900,
+    "sellPrice": null,
+    "shop": "Enchanted Artifacts",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Mask of Death",
+        "quantity": 1,
+        "itemId": "mask-of-death"
+      }
+    ]
+  },
+  {
+    "id": "diffusal-blade",
+    "name": "Diffusal Blade",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX0e7E7CaWZ_uZq9nBgXYz8yiUHsx3qX3Bz4VpyI-F_VzKJoFdo5Qh8URlcsp9guVv4_aIBP2heKUkRQZpI9jgxgms4V0kc_h2VYX8uBUXLKXpFt1cV32eIQUTRnX_gfM2H_SDHm9D2BVr/s320/Diffusal+Blade.jpg",
+    "description": "+22/26 Agility, +6/10 Intelligence,\nFeedback (Orb, passive) burn 20/36 of target's mana per attack\nPurge (active) slow enemy unit, remove most negative buffs, 8 charges\n12 seconds cooldown\nCan be upgrade once (Purge is recharge on upgrade)\n<h2 style=\"background-color: #333333; color: #ff9966; font-size: 16px; font-variant: small-caps; margin-top: 0px; padding: 4px; text-align: center;\"",
+    "buyPrice": 3300,
+    "sellPrice": null,
+    "shop": "Enchanted Artifacts",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Blade of Alacrity",
+        "quantity": 2,
+        "itemId": "blade-of-alacrity"
+      },
+      {
+        "name": "Robe of the Magi",
+        "quantity": 1,
+        "itemId": "robe-of-the-magi"
+      }
+    ]
+  },
+  {
+    "id": "boots-of-travel",
+    "name": "Boots of Travel",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqwdc-I3ZbRXf9Zt2xUldDM30har6MPrAaipOt5Q8JkI6u-qLiLD9wzZfwzvU-XWskR6r4plDXzp9glUr8jHXNgiiFkW1rYVlEMIhyphenhyphen7PjKprwEqe-CkS_q0vbVTPabVV3-mRJ9J7Zt5ks3/s320/Boots+of+Travel.gif",
+    "description": "+95 movespeed\nTeleport (active) teleport to friendly non-hero unit\n75 mana, 60 seconds cooldown, 3 seconds cast time",
+    "buyPrice": 2700,
+    "sellPrice": null,
+    "shop": "Gateway Relics",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Boots of Speed",
+        "quantity": 1,
+        "itemId": "boots-of-speed"
+      }
+    ]
+  },
+  {
+    "id": "phase-boots",
+    "name": "Phase Boots",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQH4FPzAbQqpE1SpPr6IuqZB8GQKhg3U6I4w3HrwM2xTijo6fOkfFJHUhMXwY5jgfq1BFnEYdzaw-WfVHlNo99v6KGgckKZ24RSP7O2fUZs97yy8a7dG9kshVDFeKNJdwBY0sIL0U96802/s400/BTNPhaseBoots.gif",
+    "description": "60 Movement Speed , +24 Damage\nPhase (active) Gives no collision with units, 15% movement increase, 4 seconds duration\nCasting spells or items dispells phase, 8 seconds cooldown",
+    "buyPrice": 1400,
+    "sellPrice": null,
+    "shop": "Gateway Relics",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Boots of Speed",
+        "quantity": 1,
+        "itemId": "boots-of-speed"
+      },
+      {
+        "name": "Blades of Attack (450)",
+        "quantity": 2,
+        "itemId": "blades-of-attack"
+      }
+    ]
+  },
+  {
+    "id": "power-treads",
+    "name": "Power Treads",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2qVoPFzNoJwi-dqKJM0GKmm-BoAWJl2QGYepuVanuS-I9VeVgkbfLwM3KmF6A3sW_2YvFOHOS4xTSHtFmhP6ZJwXv4_rSoDdPokOpcZ9DMLnNRC-QBMp1Pr71gUopd1HbFWsuDVdBzMO6/s320/Power+Treads.gif",
+    "description": "+60 Movement Speed, +25 Attack Speed,+8 Chosen Attribute\nSwitch Attribute (active)",
+    "buyPrice": 1450,
+    "sellPrice": null,
+    "shop": "Gateway Relics",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Belt of Giant Strength/Boots of Elvenskin/Robe of Magi",
+        "quantity": 1,
+        "itemId": "belt-of-giant-strength"
+      },
+      {
+        "name": "Boots of Speed",
+        "quantity": 1,
+        "itemId": "boots-of-speed"
+      },
+      {
+        "name": "Gloves of Haste",
+        "quantity": 1,
+        "itemId": "gloves-of-haste"
+      }
+    ]
+  },
+  {
+    "id": "soul-ring",
+    "name": "Soul Ring",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1yOP_gPqjiVQxnyOo7qwczKwz0Ne-_tIcFG2t-S9CsXmWRgNlRS-b5jkT__LK5QTQ6JQhMPNdiNX5I5BzVEjsrCQZyb1wTTMB4Yl7EL985RqQejiESjOZaHWm4gWaqvb4Cp7fNRnaSUY/s320/Soul+Ring.jpg",
+    "description": "+3 HP Regeneration, +50% Mana Regeneration\nSacrifice (active) Sacrifices 150 HP to temporarily gain 150 Mana to use in the next 10 seconds. Any extra mana that isn't used from that bonus is lost after the duration is over. Any mana usage drains from your buffer mana first.\nCooldown 25, Duration 10",
+    "buyPrice": 800,
+    "sellPrice": null,
+    "shop": "Gateway Relics",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Ring of Regeneration",
+        "quantity": 1,
+        "itemId": "ring-of-regeneration"
+      },
+      {
+        "name": "Sobi Mask",
+        "quantity": 1,
+        "itemId": "sobi-mask"
+      }
+    ]
+  },
+  {
+    "id": "hand-of-midas",
+    "name": "Hand of Midas",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwzG40eXfWlyBSxe4FFH9TOQ0vUcTfeYAQKqzEVfa1kHJAW3RnUIfn73TBCuyFQYT6E4ih8E5kKfPqdD4NLPBCsO3z5rsohRGY0LYYp16TCXl-KPYjLMUh0G4lgXcQivjqD_i_NDxY7Y-N/s320/Hand+of+Midas.jpg",
+    "description": "+30% attack speed\nTransmute (active) convert creep into gold\n25 mana, 100 seconds cooldown, gives 2.5 Exp and 2.5 Gold",
+    "buyPrice": 1900,
+    "sellPrice": null,
+    "shop": "Gateway Relics",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Gloves of Haste",
+        "quantity": 1,
+        "itemId": "gloves-of-haste"
+      }
+    ]
+  },
+  {
+    "id": "oblivion-staff",
+    "name": "Oblivion Staff",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj1FSww-SlkMj_sxbCJsYW7NX4mKbyzu-8LJuXQnwSKg0XlFKNcFgQfwvx2k9NMms0S_c8PfP8J4J6tlDbmBrGTMw_-2EX86MuChqFoAJ8MqZV1sifGaxeJPXmApkWBXtag7d1bbdFjYec/s320/Oblivion+Staff.jpg",
+    "description": "+6 intelligence, +10% attack speed, +15 damage\n+75% mana regen",
+    "buyPrice": 1675,
+    "sellPrice": null,
+    "shop": "Gateway Relics",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Quarterstaff",
+        "quantity": 1,
+        "itemId": "quarterstaff"
+      },
+      {
+        "name": "Robe of the Magi",
+        "quantity": 1,
+        "itemId": "robe-of-the-magi"
+      },
+      {
+        "name": "Sobi Mask",
+        "quantity": 1,
+        "itemId": "sobi-mask"
+      }
+    ]
+  },
+  {
+    "id": "perseverance",
+    "name": "Perseverance",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbP2eEj3y5YpL7NBKWQSQ1qA5Y7jGIJZtRd-LiNGzonwsYm0oMMEwZBIzXVS1phT8NBP_PAsxNCit6iVr-QEf_1ln8D2qzSnwJ8sjLQUGumz-5SXooSM9XnYvbzvNwRhczLuTQsXHz9_VD/s320/Perseverance.jpg",
+    "description": "+10 damage, +5 hp regen\n+125% mana regen",
+    "buyPrice": 1750,
+    "sellPrice": null,
+    "shop": "Gateway Relics",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Void Stone",
+        "quantity": 1,
+        "itemId": "void-stone"
+      },
+      {
+        "name": "Ring of Health",
+        "quantity": 1,
+        "itemId": "ring-of-health"
+      }
+    ]
+  },
+  {
+    "id": "poor-man-s-shield",
+    "name": "Poor Man's Shield",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis7bZgezQuafaQIRFStacXBj9Ip-xbyadHa05QEmktfDleepuw53SjCS2QxInK5BFoGv-aF-IE-aygO4VyhpgiH-nhDPZSNKvDNbyAKjUNc55Vzdjl6LVPXGxznu7haMrgOrkt0Y-MsTGp/s400/Poorman+Shield.JPG",
+    "description": "+6 Agility\n100% chance to block 20 hero damage, 60% chance to block 20-non hero damage (10 for ranged)",
+    "buyPrice": 550,
+    "sellPrice": null,
+    "shop": "Gateway Relics",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Stout Shield",
+        "quantity": 1,
+        "itemId": "stout-shield"
+      },
+      {
+        "name": "Slipper of Agility",
+        "quantity": 2,
+        "itemId": "slippers-of-agility"
+      }
+    ]
+  },
+  {
+    "id": "bracer",
+    "name": "Bracer",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgluKRW5Z4uQYb5REyWM_l34Q7NHgF4nPnF41Oq5LM3Gblf21oWeu5G-EBm8j65mb2pgXWIV7kDFLRj3z5qbfPjYweFYNNCv0FuLHIaNIbZMiBn3H6MH7wmYJVkgWs-SMTiMBPUHxIzvI10/s320/Bracer.jpg",
+    "description": "+3 Agility, +3 Intelligence\n+6 Strength, +3 Damage",
+    "buyPrice": 525,
+    "sellPrice": null,
+    "shop": "Gateway Relics",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Circlet of Nobility",
+        "quantity": 1,
+        "itemId": "circlet-of-nobility"
+      },
+      {
+        "name": "Gauntlet of Strength",
+        "quantity": 1,
+        "itemId": "gauntlets-of-ogre-strength"
+      }
+    ]
+  },
+  {
+    "id": "wraith-band",
+    "name": "Wraith Band",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXdcP-S5f42rMtZftfCHkM2QkOU3VVMwBBM0h5LBhjDxPlyIjHM4v8aQQ5nV6Iw8KNoxUPitjS63EgCGiuvWYcUsRefjmjPlqitJ36IEh2YA9Uj-6_brNQG-wsKEQusdK6c5a9mt68_8o2/s320/Wraith+Band.jpg",
+    "description": "+6 Agility, +3 Intelligence\n+3 Strength, +3 Damage",
+    "buyPrice": 485,
+    "sellPrice": null,
+    "shop": "Gateway Relics",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Circlet of Nobility",
+        "quantity": 1,
+        "itemId": "circlet-of-nobility"
+      },
+      {
+        "name": "Slippers of Agility",
+        "quantity": 1,
+        "itemId": "slippers-of-agility"
+      }
+    ]
+  },
+  {
+    "id": "null-talisman",
+    "name": "Null Talisman",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi785mZy1dNJxW3yUzyJy1sbjB8YBVBImQ6s_-r-Lc6z7euIjisPLI_L19yZUgnOEjovGA8kk5FnmZjqDkzCYV0xYhO4UW5vrSBhlfrvoSopWu3uSzhd9oAlqpiFO8ssNIvI31guZkiUXUC/s320/Null+Talisman.jpg",
+    "description": "+3 Agility, +6 Intelligence\n+3 Strength, +3 Damage",
+    "buyPrice": 505,
+    "sellPrice": null,
+    "shop": "Gateway Relics",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Circlet of Nobility",
+        "quantity": 1,
+        "itemId": "circlet-of-nobility"
+      },
+      {
+        "name": "Mantle of Intelligence",
+        "quantity": 1,
+        "itemId": "mantle-of-intelligence"
+      }
+    ]
+  },
+  {
+    "id": "magic-wand",
+    "name": "Magic Wand",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-ot0jc8oTEI48-P60jVOk5oTMysiRz82VF3ZTiZsUc8c8B9_kU4mUNFe0W0N8rIrEFfs1tn3b97YzNBDgq3PYftytgkqlJgMRXlCX5IZmHSKax-X2I7s8rhfcxpvJIR1-_tOCUuNTQia6/s400/BTNStarWand.gif",
+    "description": "+3 all attributes\nEnergy Charges (active) Collects charges (up to 15) when nearby enemy spells are cast. Energy Charge gives 15 health and 15 mana when used for each charge on it.",
+    "buyPrice": 509,
+    "sellPrice": null,
+    "shop": "Gateway Relics",
+    "usedToMake": [],
+    "components": [
+      {
+        "name": "Magic Stick",
+        "quantity": 1,
+        "itemId": "magic-stick"
+      },
+      {
+        "name": "Ironwood Branch",
+        "quantity": 3,
+        "itemId": "ironwood-branch"
+      }
+    ]
+  }
+]
