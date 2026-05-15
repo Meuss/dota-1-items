@@ -42,11 +42,11 @@ const hasAnyItem = computed(() => slots.value.some(s => s.item !== null))
       <h2 class="mb-3 text-center text-sm font-semibold uppercase tracking-wider text-dota-muted">
         Shop Locations
       </h2>
-      <div class="overflow-hidden rounded-xl border border-dota-border">
+      <div class="flex justify-center">
         <img
           src="/shops.jpg"
           alt="Dota 1 shop locations map"
-          class="w-full"
+          class="max-w-full rounded-xl border border-dota-border"
         />
       </div>
     </div>
