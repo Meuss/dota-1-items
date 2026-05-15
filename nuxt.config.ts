@@ -9,6 +9,7 @@ export default defineNuxtConfig({
     plugins: [tailwindcss()],
   },
   app: {
+    baseURL: process.env.NUXT_APP_BASE_URL || '/',
     head: {
       title: 'Dota 1 Item Helper',
       meta: [
