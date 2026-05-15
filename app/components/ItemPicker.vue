@@ -67,9 +67,9 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
           </div>
 
           <!-- Shop filter chips -->
-          <div class="flex gap-1.5 overflow-x-auto border-b border-dota-border px-5 py-3">
+          <div class="flex flex-wrap gap-1.5 border-b border-dota-border px-5 py-3">
             <button
-              class="shrink-0 rounded-full px-2.5 py-1 text-[11px] font-medium transition-colors"
+              class="rounded-full px-3 py-1.5 text-xs font-medium transition-colors"
               :class="
                 shopFilter === 'all'
                   ? 'bg-dota-gold text-dota-bg'
@@ -82,7 +82,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
             <button
               v-for="shop in SHOP_NAMES"
               :key="shop"
-              class="shrink-0 rounded-full px-2.5 py-1 text-[11px] font-medium transition-colors"
+              class="rounded-full px-3 py-1.5 text-xs font-medium transition-colors"
               :class="
                 shopFilter === shop
                   ? 'bg-dota-gold text-dota-bg'
